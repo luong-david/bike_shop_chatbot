@@ -11,6 +11,7 @@ Your Virtual Assistant should have the following capabilities at a minimum:
 Ability to understand 20 user utterances/queries (including reasonable variations of those queries).
 Ability to have at least 2 multi-turn conversations where the user may ask follow up questions.
 Ability to collect data from the user, e.g., on what date did the issue occur, how many items did you have in your order, etc.
+OPTIONAL (due to reduce team size)
 Ability to engage in some amount of small talk
 Conversational AI Platform
 
