@@ -1,0 +1,9 @@
+{
+  "id": "f5f86e9a-354e-4767-af78-e11e33fc3dea",
+  "name": "language-programming",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

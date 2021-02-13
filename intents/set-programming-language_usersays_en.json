@@ -1,0 +1,78 @@
+[
+  {
+    "id": "69d9559b-f3b7-484d-b8c1-97cabc125a9b",
+    "data": [
+      {
+        "text": "I code in ",
+        "userDefined": false
+      },
+      {
+        "text": "javascript",
+        "meta": "@language-programming",
+        "alias": "language-programming",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e2cfd8f2-effb-4f0a-8498-cae0e070df58",
+    "data": [
+      {
+        "text": "I know ",
+        "userDefined": false
+      },
+      {
+        "text": "py",
+        "meta": "@language-programming",
+        "alias": "language-programming",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "93fefba9-8cff-4a69-8aca-94b176723c87",
+    "data": [
+      {
+        "text": "I know how to code in ",
+        "userDefined": false
+      },
+      {
+        "text": "Java",
+        "meta": "@language-programming",
+        "alias": "language-programming",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6bdcc382-e9eb-4ea6-8f9c-9967a5ba4b2c",
+    "data": [
+      {
+        "text": "I know ",
+        "userDefined": false
+      },
+      {
+        "text": "JavaScript",
+        "meta": "@language-programming",
+        "alias": "language-programming",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

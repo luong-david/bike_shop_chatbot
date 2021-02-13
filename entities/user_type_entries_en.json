@@ -1,0 +1,22 @@
+[
+  {
+    "value": "adult",
+    "synonyms": [
+      "adult",
+      "male",
+      "men",
+      "women",
+      "female"
+    ]
+  },
+  {
+    "value": "child",
+    "synonyms": [
+      "child",
+      "kid",
+      "tot",
+      "boy",
+      "girl"
+    ]
+  }
+]

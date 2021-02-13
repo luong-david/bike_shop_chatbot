@@ -1,0 +1,103 @@
+[
+  {
+    "id": "bfb4bfef-c669-4661-94cb-0e692765cc7b",
+    "data": [
+      {
+        "text": "I want to buy a kids bike",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a1344388-2ce2-4682-b885-e550ae854513",
+    "data": [
+      {
+        "text": "I want to buy a Mountain bike",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2c359a8f-2f70-4be7-b2de-233e317fe368",
+    "data": [
+      {
+        "text": "I want to buy a Road bike",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8ccc269f-156b-4f46-aeba-36abe31b0296",
+    "data": [
+      {
+        "text": "I want to buy a Special bike",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5e27774b-c643-4d42-83d3-75f6a90ac5c7",
+    "data": [
+      {
+        "text": "Can you show me what bikes are less than ",
+        "userDefined": false
+      },
+      {
+        "text": "1000 dollars",
+        "meta": "@sys.unit-currency",
+        "alias": "money",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ced7261f-eb95-48c7-9a72-c9bd865b3339",
+    "data": [
+      {
+        "text": "Can I buy a bike?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e0aaf3ff-436f-4e54-87b2-4afed4156b8c",
+    "data": [
+      {
+        "text": "I would like to buy a bike.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,83 @@
+{
+  "id": "e92412d3-9a9a-4156-acbd-723b73a245b7",
+  "name": "Describe Bike",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "DescribeBike-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "35a2d57d-018c-42b3-a1c7-2c9cfb93981d",
+          "name": "bike_type",
+          "required": true,
+          "dataType": "@bike_type",
+          "value": "$bike_type",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Road, mountain, or kids bikes?"
+            },
+            {
+              "lang": "en",
+              "value": "For an adult or child?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "2f12167d-d551-4658-a344-4dd5b996ce56",
+          "name": "user_type",
+          "required": true,
+          "dataType": "@user_type",
+          "value": "$user_type",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "For an adult or child?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "We carry many brands and models of $user_type $bike_type bikes, do you want to buy one?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

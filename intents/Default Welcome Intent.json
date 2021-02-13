@@ -1,0 +1,41 @@
+{
+  "id": "17ce1d5e-3ae5-4e03-84b8-0b662fba460f",
+  "name": "Default Welcome Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Welcome to David and Ram\u0027s Bike Shop. I can tell you the shop hours, or I can set up an appointment. Which would you like?",
+            "Welcome to David and Ram\u0027s Bike Shop. I can tell you the shop hours, or I can make an appointment. What can I do for you?",
+            "Hello there. I can tell you the shop hours, or I can schedule an appointment. How may I help you today?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

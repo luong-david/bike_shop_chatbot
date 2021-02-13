@@ -1,0 +1,53 @@
+[
+  {
+    "id": "918dce4d-8d41-4e13-9942-b2ff69ca25f0",
+    "data": [
+      {
+        "text": "I know how to write in ",
+        "userDefined": false
+      },
+      {
+        "text": "German",
+        "meta": "@sys.language",
+        "alias": "language",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a2caf1de-710c-4207-babc-8d2317a74804",
+    "data": [
+      {
+        "text": "I speak French",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ae196b49-7c58-48e4-80bb-18d1d2ccea86",
+    "data": [
+      {
+        "text": "I know ",
+        "userDefined": false
+      },
+      {
+        "text": "English",
+        "meta": "@sys.language",
+        "alias": "language",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

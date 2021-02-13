@@ -1,0 +1,82 @@
+{
+  "id": "62e5a99a-5f9d-4a8e-ab07-c7b19f146187",
+  "name": "Purchase Bike",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "41639dfe-b07b-4f1d-9a99-88f2132a6fbe",
+          "name": "money",
+          "required": true,
+          "dataType": "@sys.unit-currency",
+          "value": "$money",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "How much do you have to spend?"
+            },
+            {
+              "lang": "en",
+              "value": "What is your budget?"
+            },
+            {
+              "lang": "en",
+              "value": "What is the most you want to spend?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "c39e0a88-65ad-48f5-a32b-ade2070e976c",
+          "name": "bike_type",
+          "required": true,
+          "dataType": "@bike_type",
+          "value": "$bike_type",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Road, Mountain, Kids, Special, Electric?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Great, I have these $bike_type bikes for you to consider that is within your $money price-point."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

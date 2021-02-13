@@ -1,0 +1,308 @@
+[
+  {
+    "id": "88c72b79-5cc9-4fd1-9868-c5d8fcd130f1",
+    "data": [
+      {
+        "text": "I want a ",
+        "userDefined": false
+      },
+      {
+        "text": "child\u0027s",
+        "meta": "@user_type",
+        "alias": "user_type",
+        "userDefined": true
+      },
+      {
+        "text": " bike",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5de39ee8-1058-472f-abac-d5cbcf4d1ffe",
+    "data": [
+      {
+        "text": "I want a ",
+        "userDefined": false
+      },
+      {
+        "text": "girl\u0027s",
+        "meta": "@user_type",
+        "alias": "user_type",
+        "userDefined": true
+      },
+      {
+        "text": " bike",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fba7f723-c04d-48d6-8ee2-48a2666362b9",
+    "data": [
+      {
+        "text": "I want a ",
+        "userDefined": false
+      },
+      {
+        "text": "boy\u0027s",
+        "meta": "@user_type",
+        "alias": "user_type",
+        "userDefined": true
+      },
+      {
+        "text": " bike",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b66f6e88-e4e9-46e9-a695-e17ff244a05e",
+    "data": [
+      {
+        "text": "I want a ",
+        "userDefined": false
+      },
+      {
+        "text": "women\u0027s",
+        "meta": "@user_type",
+        "alias": "user_type",
+        "userDefined": true
+      },
+      {
+        "text": " bike",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c5994b6e-ba9e-48a1-a5f4-18c7f2d64002",
+    "data": [
+      {
+        "text": "I want a ",
+        "userDefined": false
+      },
+      {
+        "text": "men\u0027s",
+        "meta": "@user_type",
+        "alias": "user_type",
+        "userDefined": true
+      },
+      {
+        "text": " bike",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "894d7bf2-9934-4b9b-8b07-65e0efc41d37",
+    "data": [
+      {
+        "text": "I want to learn about bikes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "294fc34f-8821-4e9f-aae6-888d0125a046",
+    "data": [
+      {
+        "text": "Tell me about the types of bikes you carry.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f3c54a33-95a8-4344-9da2-496ef64dda0a",
+    "data": [
+      {
+        "text": "Road",
+        "meta": "@bike_type",
+        "alias": "bike_type",
+        "userDefined": false
+      },
+      {
+        "text": " bikes are fast and for ",
+        "userDefined": false
+      },
+      {
+        "text": "paved surfaces",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4bef9616-d436-4eb8-8e3e-fb2bdec9b465",
+    "data": [
+      {
+        "text": "Mountain",
+        "meta": "@bike_type",
+        "alias": "bike_type",
+        "userDefined": false
+      },
+      {
+        "text": " bikes are for off-",
+        "userDefined": false
+      },
+      {
+        "text": "road",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " surfaces",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6f7cf053-dd8c-4504-9d99-34ccf3751283",
+    "data": [
+      {
+        "text": "Road",
+        "meta": "@bike_type",
+        "alias": "bike_type",
+        "userDefined": false
+      },
+      {
+        "text": " bikes are typically ridden on ",
+        "userDefined": false
+      },
+      {
+        "text": "pavement",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "paved surfaces",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "762e65e3-d7bc-4e46-8c59-98f802e543c8",
+    "data": [
+      {
+        "text": "Road",
+        "meta": "@bike_type",
+        "alias": "bike_type",
+        "userDefined": false
+      },
+      {
+        "text": " bikes are typically used in ",
+        "userDefined": false
+      },
+      {
+        "text": "triathlons",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " and Ironman events",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dcf5aefb-c982-4c73-b711-51274e7c3dd6",
+    "data": [
+      {
+        "text": "Young children and ",
+        "userDefined": false
+      },
+      {
+        "text": "kids",
+        "meta": "@bike_type",
+        "alias": "bike_type",
+        "userDefined": true
+      },
+      {
+        "text": " ride ",
+        "userDefined": false
+      },
+      {
+        "text": "tricycles",
+        "meta": "@bike_type",
+        "alias": "bike_type",
+        "userDefined": true
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "push",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", and ",
+        "userDefined": false
+      },
+      {
+        "text": "Strider",
+        "meta": "@bike_type",
+        "alias": "bike_type",
+        "userDefined": true
+      },
+      {
+        "text": " bikes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

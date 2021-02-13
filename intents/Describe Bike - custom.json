@@ -1,0 +1,39 @@
+{
+  "id": "acc5d30b-5d78-4865-97ff-7010d387daf0",
+  "parentId": "e92412d3-9a9a-4156-acbd-723b73a245b7",
+  "rootParentId": "e92412d3-9a9a-4156-acbd-723b73a245b7",
+  "name": "Describe Bike - custom",
+  "auto": true,
+  "contexts": [
+    "DescribeBike-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DescribeBike.DescribeBike-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Great, tell me what your budget is!"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

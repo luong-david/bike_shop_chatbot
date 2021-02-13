@@ -1,0 +1,70 @@
+[
+  {
+    "value": "Road",
+    "synonyms": [
+      "Road",
+      "Performance",
+      "Endurance",
+      "Cyclocross",
+      "Triathlon",
+      "Pavement",
+      "Paved Surfaces",
+      "adult"
+    ]
+  },
+  {
+    "value": "Mountain",
+    "synonyms": [
+      "Mountain",
+      "Fat tire",
+      "29er",
+      "Dirt Jumper",
+      "Full Suspension",
+      "Hardtail",
+      "Rigid",
+      "Dirt Jump",
+      "adult"
+    ]
+  },
+  {
+    "value": "Cargo",
+    "synonyms": [
+      "Cargo",
+      "Freight",
+      "Touring",
+      "adult"
+    ]
+  },
+  {
+    "value": "Electric",
+    "synonyms": [
+      "Electric",
+      "E-bike",
+      "adult"
+    ]
+  },
+  {
+    "value": "Kids",
+    "synonyms": [
+      "Kids",
+      "Tricycle",
+      "BMX",
+      "Push",
+      "Strider",
+      "Pedal",
+      "kid",
+      "children"
+    ]
+  },
+  {
+    "value": "Special",
+    "synonyms": [
+      "Special",
+      "Folding",
+      "Recumbent",
+      "Tandem",
+      "Unicycle",
+      "adult"
+    ]
+  }
+]

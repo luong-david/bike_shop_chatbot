@@ -1,0 +1,175 @@
+[
+  {
+    "id": "1a725764-82a2-485a-83c2-7e23dcac3bf4",
+    "data": [
+      {
+        "text": "How late can I come in?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5f482548-9ccb-4e1c-9580-6db4c291f9f7",
+    "data": [
+      {
+        "text": "What are your hours?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bdf7dcfa-55c2-4387-8c23-caec1c88ad25",
+    "data": [
+      {
+        "text": "Tell me your opening hours.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "70c09cec-d786-4b29-994a-da76d1a91cd6",
+    "data": [
+      {
+        "text": "How early can I drop in?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7d14bca5-c1af-4102-8182-14a9bae3b5b6",
+    "data": [
+      {
+        "text": "Business hours.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "565360fb-1489-4bf6-9849-b373e0152a9d",
+    "data": [
+      {
+        "text": "Are you open now?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "caed7f0d-614e-4a62-8f95-825845286436",
+    "data": [
+      {
+        "text": "What time do you open ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "morning",
+        "meta": "@sys.time-period",
+        "alias": "time-period",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1e1cad96-24fb-43a0-bdd4-0720c82bc26c",
+    "data": [
+      {
+        "text": "When do you close?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e5f2aeb3-613c-4311-b5d5-17d430bc8366",
+    "data": [
+      {
+        "text": "How late are you open on weekends?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "eb6f2c93-b43c-43a5-b80d-a92cf9c0e17c",
+    "data": [
+      {
+        "text": "Are you open ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d4e28d9f-6fe5-49dd-a946-39e9c03387c1",
+    "data": [
+      {
+        "text": "When are you open?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

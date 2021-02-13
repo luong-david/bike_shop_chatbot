@@ -1,0 +1,9 @@
+{
+  "id": "54b3b2c5-e0a2-42f8-9f11-f19b4ade3572",
+  "name": "bike_type",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

@@ -1,0 +1,94 @@
+[
+  {
+    "id": "54a043c8-60bd-4e99-964b-27724abfad2a",
+    "data": [
+      {
+        "text": "Will it ",
+        "userDefined": false
+      },
+      {
+        "text": "rain",
+        "meta": "@temperature",
+        "alias": "temperature",
+        "userDefined": true
+      },
+      {
+        "text": " today?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6af53ca6-4886-4035-a2bb-d5d2b3015086",
+    "data": [
+      {
+        "text": "Is today a ",
+        "userDefined": false
+      },
+      {
+        "text": "good",
+        "meta": "@temperature",
+        "alias": "temperature",
+        "userDefined": true
+      },
+      {
+        "text": " day to ride a bike?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e5bded1c-9ab0-44b9-94d0-9e6eb63a22e8",
+    "data": [
+      {
+        "text": "How is the ",
+        "userDefined": false
+      },
+      {
+        "text": "weather",
+        "meta": "@temperature",
+        "alias": "temperature",
+        "userDefined": true
+      },
+      {
+        "text": " today?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7dbcdadd-a7cb-4336-94e0-d0aa5aaa75ec",
+    "data": [
+      {
+        "text": "Is it ",
+        "userDefined": false
+      },
+      {
+        "text": "cold",
+        "meta": "@temperature",
+        "alias": "temperature",
+        "userDefined": true
+      },
+      {
+        "text": " enough to wear a jacket today?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,90 @@
+{
+  "id": "0b7af6b1-a11f-43af-8587-bfd7c5626954",
+  "name": "Make Appointment",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "bf8c24eb-8ab8-4683-ab05-e52de8e1c2bd",
+          "name": "time",
+          "required": true,
+          "dataType": "@sys.time",
+          "value": "$time.original",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "And what time works for you?"
+            },
+            {
+              "lang": "en",
+              "value": "What time?"
+            },
+            {
+              "lang": "en",
+              "value": "Now, what time do you want the appointment?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "2853d251-a3b7-4778-803e-590b6862f688",
+          "name": "date",
+          "required": true,
+          "dataType": "@sys.date",
+          "value": "$date.recent",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Okay, I can help you with that. What day do you want to come in?"
+            },
+            {
+              "lang": "en",
+              "value": "Sure, what day are you coming in?"
+            },
+            {
+              "lang": "en",
+              "value": "Okay, what day will work for you?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Got it. I have your appointment scheduled on $date at $time. See you soon. Good-bye."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

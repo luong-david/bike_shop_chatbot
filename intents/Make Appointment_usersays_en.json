@@ -1,0 +1,186 @@
+[
+  {
+    "id": "f9bc1d22-86da-40c4-b44f-3f0f25c20483",
+    "data": [
+      {
+        "text": "I\u0027d like to schedule an appointment on this ",
+        "userDefined": false
+      },
+      {
+        "text": "Thursday",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "21d569a8-9236-429a-be65-d8d4158cf3eb",
+    "data": [
+      {
+        "text": "I need to fix my bike ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2dfb4d8f-f4ad-4072-abe7-22cdde6ce5f0",
+    "data": [
+      {
+        "text": "I\u0027d like to get my bike fixed, I have a mountain bike that needs servicing.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bf2f1015-3c7c-4742-b9bd-75dce12e5382",
+    "data": [
+      {
+        "text": "My bike is broken.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "884307e9-5ae2-4f8d-8b3a-20312a602328",
+    "data": [
+      {
+        "text": "Can you fix my road bike?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c5606685-4dd4-42ab-bd9f-40aee6a5ce3b",
+    "data": [
+      {
+        "text": "Can I set up an appointment for ",
+        "userDefined": false
+      },
+      {
+        "text": "noon",
+        "meta": "@sys.time",
+        "alias": "time",
+        "userDefined": false
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "Friday",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "57d099ee-bbbb-454e-ab6c-36fe6e04066a",
+    "data": [
+      {
+        "text": "Can I schedule service for ",
+        "userDefined": false
+      },
+      {
+        "text": "4 PM",
+        "meta": "@sys.time",
+        "alias": "time",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2005e604-4045-4a85-a6a8-96adb78b1ac0",
+    "data": [
+      {
+        "text": "I need to make an appointment ",
+        "userDefined": false
+      },
+      {
+        "text": "at 3 PM",
+        "meta": "@sys.time",
+        "alias": "time",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": true
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
