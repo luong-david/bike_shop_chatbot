@@ -1,6 +1,6 @@
 {
   "id": "62e5a99a-5f9d-4a8e-ab07-c7b19f146187",
-  "name": "Purchase Bike",
+  "name": "purchase-bike",
   "auto": true,
   "contexts": [],
   "responses": [
@@ -10,7 +10,7 @@
       "affectedContexts": [],
       "parameters": [
         {
-          "id": "41639dfe-b07b-4f1d-9a99-88f2132a6fbe",
+          "id": "c42792b6-f3dc-429a-9228-0b00dacc6fde",
           "name": "money",
           "required": true,
           "dataType": "@sys.unit-currency",
@@ -37,7 +37,7 @@
           "outputDialogContexts": []
         },
         {
-          "id": "c39e0a88-65ad-48f5-a32b-ade2070e976c",
+          "id": "6ef614ef-2c41-4778-bc1a-24dbdaa1549b",
           "name": "bike_type",
           "required": true,
           "dataType": "@bike_type",
@@ -63,7 +63,7 @@
           "textToSpeech": "",
           "lang": "en",
           "speech": [
-            "Great, I have these $bike_type bikes for you to consider that is within your $money price-point."
+            "Great, I have these $bike_type bikes for you to consider that is within your $money price-point.  I can take payment from you now or set up an appointment.   Which would you like?"
           ],
           "condition": ""
         }

@@ -1,6 +1,6 @@
 {
   "id": "b22ec832-0e88-481b-ab47-aa40507ff495",
-  "name": "Hours",
+  "name": "get-hours",
   "auto": true,
   "contexts": [],
   "responses": [
@@ -10,7 +10,7 @@
       "affectedContexts": [],
       "parameters": [
         {
-          "id": "1bd1e383-9093-4fe4-bb5a-587e27a0c58c",
+          "id": "229305bc-049a-47ef-aa90-516e17d1905f",
           "name": "date-time",
           "required": false,
           "dataType": "@sys.date-time",
@@ -24,7 +24,7 @@
           "outputDialogContexts": []
         },
         {
-          "id": "8d1aa63a-db8f-40fe-9225-435425197d98",
+          "id": "1942b897-3ed5-4e96-b70a-31f4c2915921",
           "name": "time-period",
           "required": false,
           "dataType": "@sys.time-period",
@@ -45,7 +45,7 @@
           "textToSpeech": "",
           "lang": "en",
           "speech": [
-            "We\u0027re open from 9 AM to 6 PM every day. Is there anything else I can do for you?"
+            "We\u0027re open from 9 AM to 6 PM every day. Do you want me to shop or learn about our bikes?"
           ],
           "condition": ""
         }
