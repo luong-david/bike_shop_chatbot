@@ -1,10 +1,10 @@
 {
-  "description": "Your Virtual Assistant should have the following capabilities at a minimum:\n\nAbility to understand 20 user utterances/queries (including reasonable variations of those queries).\nAbility to have at least 2 multi-turn conversations where the user may ask follow up questions.\nAbility to collect data from the user, e.g., on what date did the issue occur, how many items did you have in your order, etc.\nAbility to engage in some amount of small talk",
+  "description": "",
   "language": "en",
   "shortDescription": "",
   "examples": "",
   "linkToDocs": "",
-  "displayName": "David",
+  "displayName": "master",
   "activeAssistantAgents": [
     "smalltalk-domain-on"
   ],
@@ -47,7 +47,7 @@
   "mlMinConfidence": 0.3,
   "supportedLanguages": [],
   "enableOnePlatformApi": true,
-  "onePlatformApiVersion": "v2beta1",
+  "onePlatformApiVersion": "v2",
   "secondaryKey": "86dca790e05e45f9b6831a99e38f85db",
   "analyzeQueryTextSentiment": false,
   "enabledKnowledgeBaseNames": [],

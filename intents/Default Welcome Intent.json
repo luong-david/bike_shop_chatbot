@@ -16,9 +16,9 @@
           "textToSpeech": "",
           "lang": "en",
           "speech": [
-            "Welcome to David and Ram\u0027s Bike Shop. I can tell you the shop hours, or I can set up an appointment. Which would you like?",
-            "Welcome to David and Ram\u0027s Bike Shop. I can tell you the shop hours, or I can make an appointment. What can I do for you?",
-            "Hello there. I can tell you the shop hours, or I can schedule an appointment. How may I help you today?"
+            "Welcome to David and Ram\u0027s Bike Shop. I can tell you the shop hours, I can set up an appointment, I can describe our bikes, or I can sell you a bike. Which would you like?",
+            "Welcome to David and Ram\u0027s Bike Shop. I can tell you the shop hours, make an appointment, describe our bikes, or sell you a bike. What can I do for you?",
+            "Hello there. I can tell you the shop hours, I can schedule an appointment, I can set up an appointment, I can describe our bikes, or I can sell you a bike. How may I help you today?"
           ],
           "condition": ""
         }

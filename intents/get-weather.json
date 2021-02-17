@@ -1,6 +1,6 @@
 {
   "id": "567c9257-bb90-4473-a073-a7bb5a9db6fe",
-  "name": "get-temperature",
+  "name": "get-weather",
   "auto": true,
   "contexts": [],
   "responses": [
@@ -10,11 +10,25 @@
       "affectedContexts": [],
       "parameters": [
         {
-          "id": "5f0516c0-aec4-45cf-8fc3-6b8882da6753",
+          "id": "89e44d20-4281-43a6-884d-2a6271374264",
           "name": "temperature",
           "required": false,
           "dataType": "@temperature",
           "value": "$temperature",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "30e4ce5f-427a-4d28-8c09-0f6bf40b534e",
+          "name": "date-time",
+          "required": false,
+          "dataType": "@sys.date-time",
+          "value": "$date-time",
           "defaultValue": "",
           "isList": false,
           "prompts": [],
@@ -31,7 +45,9 @@
           "textToSpeech": "",
           "lang": "en",
           "speech": [
-            "The temperature is 70 degrees, a very nice day to ride a bike."
+            "The temperature is 70 degrees, a very nice day to ride a bike.  I can describe our bike selection or setup an appointment at our store.  Which would you like?",
+            "The temperature is 50 degrees, a colder day to ride a bike.  I can describe our gear selection or setup an appointment at our store.  Which would you like?",
+            "Today is snowing!  But since you can\u0027t ride today, I can describe our gear and bikes or tell you our shop hours so can you can visit us.  Which would you like?"
           ],
           "condition": ""
         }
