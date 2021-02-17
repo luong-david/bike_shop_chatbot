@@ -1,5 +1,70 @@
 [
   {
+    "id": "d47dc6ab-43a4-40e9-a5bb-8a2099def641",
+    "data": [
+      {
+        "text": "pay for a bike",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "758dece4-db1e-41c3-8623-810d3b54274f",
+    "data": [
+      {
+        "text": "Sell a bike",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "357c505c-4f51-4a10-9e76-e850676fa86d",
+    "data": [
+      {
+        "text": "Purchase a bike",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "aac42057-9b1e-460b-ac06-1f600231c0c8",
+    "data": [
+      {
+        "text": "Buy a bike",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "be075265-6120-40c7-8e16-835fe3a07c7b",
+    "data": [
+      {
+        "text": "I want to shop for and buy a bike.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
     "id": "bfb4bfef-c669-4661-94cb-0e692765cc7b",
     "data": [
       {

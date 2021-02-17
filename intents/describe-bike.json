@@ -1,34 +1,31 @@
 {
-  "id": "0b7af6b1-a11f-43af-8587-bfd7c5626954",
-  "name": "Make Appointment",
+  "id": "e92412d3-9a9a-4156-acbd-723b73a245b7",
+  "name": "describe-bike",
   "auto": true,
   "contexts": [],
   "responses": [
     {
       "resetContexts": false,
       "action": "",
-      "affectedContexts": [],
+      "affectedContexts": [
+        {
+          "name": "DescribeBike-followup",
+          "lifespan": 2
+        }
+      ],
       "parameters": [
         {
-          "id": "bf8c24eb-8ab8-4683-ab05-e52de8e1c2bd",
-          "name": "time",
+          "id": "006b78d6-757a-4e58-826e-08c6afed8e8f",
+          "name": "bike_type",
           "required": true,
-          "dataType": "@sys.time",
-          "value": "$time.original",
+          "dataType": "@bike_type",
+          "value": "$bike_type",
           "defaultValue": "",
-          "isList": false,
+          "isList": true,
           "prompts": [
             {
               "lang": "en",
-              "value": "And what time works for you?"
-            },
-            {
-              "lang": "en",
-              "value": "What time?"
-            },
-            {
-              "lang": "en",
-              "value": "Now, what time do you want the appointment?"
+              "value": "Road, mountain, or kids bikes?"
             }
           ],
           "promptMessages": [],
@@ -37,25 +34,17 @@
           "outputDialogContexts": []
         },
         {
-          "id": "2853d251-a3b7-4778-803e-590b6862f688",
-          "name": "date",
+          "id": "a1844ebc-1fab-4c67-99b7-08adbde8b85f",
+          "name": "user_type",
           "required": true,
-          "dataType": "@sys.date",
-          "value": "$date.recent",
+          "dataType": "@user_type",
+          "value": "$user_type",
           "defaultValue": "",
-          "isList": false,
+          "isList": true,
           "prompts": [
             {
               "lang": "en",
-              "value": "Okay, I can help you with that. What day do you want to come in?"
-            },
-            {
-              "lang": "en",
-              "value": "Sure, what day are you coming in?"
-            },
-            {
-              "lang": "en",
-              "value": "Okay, what day will work for you?"
+              "value": "For an adult or child?"
             }
           ],
           "promptMessages": [],
@@ -71,7 +60,7 @@
           "textToSpeech": "",
           "lang": "en",
           "speech": [
-            "Got it. I have your appointment scheduled on $date at $time. See you soon. Good-bye."
+            "We carry many brands and models of $user_type $bike_type bikes, you can buy one now or set up an appointment to see it in person.  Which would you like?"
           ],
           "condition": ""
         }
@@ -80,7 +69,7 @@
     }
   ],
   "priority": 500000,
-  "webhookUsed": true,
+  "webhookUsed": false,
   "webhookForSlotFilling": false,
   "fallbackIntent": false,
   "events": [],

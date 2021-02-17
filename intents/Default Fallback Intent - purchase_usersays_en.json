@@ -1,0 +1,41 @@
+[
+  {
+    "id": "21dce561-1999-4966-837b-eb63d3702cf6",
+    "data": [
+      {
+        "text": "pay for",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "08281fb4-08c3-4fad-bd91-1b970e522ed8",
+    "data": [
+      {
+        "text": "transaction",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f0bffebe-eebb-4944-80a9-75330add31e4",
+    "data": [
+      {
+        "text": "payment",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

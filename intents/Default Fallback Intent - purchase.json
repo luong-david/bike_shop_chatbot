@@ -1,0 +1,39 @@
+{
+  "id": "c184464b-2841-4412-ab01-79a5a4339fee",
+  "parentId": "94571241-1b69-405a-8a61-e727a35c57e7",
+  "rootParentId": "94571241-1b69-405a-8a61-e727a35c57e7",
+  "name": "Default Fallback Intent - purchase",
+  "auto": true,
+  "contexts": [
+    "DefaultFallbackIntent-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultFallbackIntent.DefaultFallbackIntent-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Sorry, I think you want to buy or pay for the bike.  If so, say buy or pay."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
