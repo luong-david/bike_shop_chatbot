@@ -1,44 +1,32 @@
 # bike_shop_chatbot
 
-AI Application
+Welcome to David and Ram's AI Application
 
-The AI application we will be working on this semester is a Virtual Assistant (chatbot).  You need to identify an application for your Virtual Assistant, e.g., helping someone with an IT issue, helping someone with issues related on online shopping, controlling devices in someone's home (e.g., lights, temperature, etc.).
+This is a Virtual Assistant (chatbot) for David and Ram's Bike Shop.  The Virtual Assistant will help you with issues related to shopping for a bike, making a store appointment, and among other queries listed below.
 
-Minimum Functionality of your Virtual Assistant
+Utterances/Queries/Intents
+1.  Weather
+2.  Store Hours
+3.  Bike Selection
+4.  Bike Purchase
+5.  Gear Selection
+6.  Appointments
+7.  Payment Selection
+8.  Agent Name e.g. What is your name?
+9.  Agent Mood e.g. How are you?
+10. Store Location e.g. Where are you located?
+11. Financing
+12. Customer Name
+13. 
+14. 
+15. 
+16. 
+17. 
+18. 
+19. 
+20. 
 
-Your Virtual Assistant should have the following capabilities at a minimum:
+The Virtual Assistant also has the ability to have at least 2 multi-turn conversations where the customer may ask follow up questions e.g. 
 
-Ability to understand 20 user utterances/queries (including reasonable variations of those queries).
-Ability to have at least 2 multi-turn conversations where the user may ask follow up questions.
-Ability to collect data from the user, e.g., on what date did the issue occur, how many items did you have in your order, etc.
-OPTIONAL (due to reduce team size)
-Ability to engage in some amount of small talk
-Conversational AI Platform
+The chatbot also has the ability to collect data from the user, e.g., what kind of bike do you want, what is your budget, time and day of your desired appointment.
 
-You can use a platform of your choice to build your chatbot.  Example platforms you can use are:
-
-Chatterbot (Links to an external site.)
-RASA (Links to an external site.)
-Google Dialogflow (Links to an external site.) (1-year free subscription is usually available)
-You are welcome to use other platforms.  Please run your choice by the course instructor first.
-
-Deliverables
-
-Presentation on March 11, 2020 in class
-5 minutes per person (max 15 minutes total per team) + 5 minutes of Q&A
-You need to cover at least the following:
-Motivation for your choice of application
-Demo
-Technical details of your implementation approach and architecture
-Challenges you encountered
-Insights/lessons learned
-Submission of
-Link to code on github + instructions on running it
-Presentation slides
-Evaluation Criteria
-
-Well-thought through application
-Working Virtual Assistant able to handle interactions reasonable for your chosen application
-Well-structured presentation, delivered within the time constraints outlined above 
-Individual contribution (based on peer review from the members of your team which will be collected through a Quiz)
-Alternate Projects
