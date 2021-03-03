@@ -1,0 +1,9 @@
+{
+  "id": "bf4b1181-1217-4d31-8945-412ea6dcce64",
+  "name": "bike-financing",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

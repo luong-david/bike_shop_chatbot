@@ -1,0 +1,35 @@
+{
+  "id": "c89bef69-3119-4ed3-bb4f-56d299ca6a31",
+  "name": "about warranty",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "We have been in the Bike Business for last 47 years. Our warranty is BEST in the industry. For 1 year, any defect remedy and tune up is FREE. All the parts are guaranteed against any manufacturing defect, for 10 years, for the Original owner."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

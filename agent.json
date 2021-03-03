@@ -4,7 +4,7 @@
   "shortDescription": "",
   "examples": "",
   "linkToDocs": "",
-  "displayName": "master",
+  "displayName": "BikeRam",
   "activeAssistantAgents": [
     "smalltalk-domain-on"
   ],
@@ -48,7 +48,7 @@
   "supportedLanguages": [],
   "enableOnePlatformApi": true,
   "onePlatformApiVersion": "v2",
-  "secondaryKey": "86dca790e05e45f9b6831a99e38f85db",
+  "secondaryKey": "771ad3b6f9734c50ad1b571eb4562417",
   "analyzeQueryTextSentiment": false,
   "enabledKnowledgeBaseNames": [],
   "knowledgeServiceConfidenceAdjustment": 0.0,

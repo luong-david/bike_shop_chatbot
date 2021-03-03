@@ -1,0 +1,29 @@
+[
+  {
+    "value": "Term",
+    "synonyms": [
+      "Term",
+      "Duration,length,months"
+    ]
+  },
+  {
+    "value": "Rate",
+    "synonyms": [
+      "Rate",
+      "zero,fixed,floating"
+    ]
+  },
+  {
+    "value": "Penality",
+    "synonyms": [
+      "Penality,maximum"
+    ]
+  },
+  {
+    "value": "Downpayment",
+    "synonyms": [
+      "Downpayment",
+      "Percentage,"
+    ]
+  }
+]

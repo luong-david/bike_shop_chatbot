@@ -1,0 +1,37 @@
+{
+  "id": "be891211-c271-4b1f-8a3e-e089cad935a0",
+  "parentId": "e92412d3-9a9a-4156-acbd-723b73a245b7",
+  "rootParentId": "e92412d3-9a9a-4156-acbd-723b73a245b7",
+  "name": "describe-bike - custom",
+  "auto": true,
+  "contexts": [
+    "DescribeBike-followup",
+    "describe-bike-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "describe-bike.describe-bike-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

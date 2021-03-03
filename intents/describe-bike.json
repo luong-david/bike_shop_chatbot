@@ -11,6 +11,10 @@
         {
           "name": "DescribeBike-followup",
           "lifespan": 2
+        },
+        {
+          "name": "describe-bike-followup",
+          "lifespan": 2
         }
       ],
       "parameters": [

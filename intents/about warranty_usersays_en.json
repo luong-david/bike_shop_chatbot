@@ -1,0 +1,41 @@
+[
+  {
+    "id": "addc7d52-8959-4ae2-8e49-a09a01eecb2a",
+    "data": [
+      {
+        "text": "Bike guarantee",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "97fbc751-cada-468d-8559-93cbeed9755c",
+    "data": [
+      {
+        "text": "Does bike come with any warranty?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a91c2170-634b-4105-9942-acb7505db8f6",
+    "data": [
+      {
+        "text": "Is there any warranty?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

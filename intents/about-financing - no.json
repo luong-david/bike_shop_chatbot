@@ -1,0 +1,40 @@
+{
+  "id": "198f264c-9867-4f9d-836c-f5ef3a916afd",
+  "parentId": "04b8442a-d91f-4e17-a9c2-cda61eaa75d0",
+  "rootParentId": "04b8442a-d91f-4e17-a9c2-cda61eaa75d0",
+  "name": "about-financing - no",
+  "auto": true,
+  "contexts": [
+    "about-financing-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "about-financing.about-financing-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "No problem. Just let us know, if you need financing details."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "endInteraction": true
+}

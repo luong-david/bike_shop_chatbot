@@ -1,0 +1,37 @@
+{
+  "id": "cdcd12b1-2c9b-45ed-ade8-a69b96416fe1",
+  "parentId": "5f038dc9-c3dd-48e6-b3fe-32344aa062d4",
+  "rootParentId": "04b8442a-d91f-4e17-a9c2-cda61eaa75d0",
+  "name": "about-financing - yes - fallback",
+  "contexts": [
+    "Financing",
+    "details",
+    "about-financing-yes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "about-financing.about-financing-yes.about-financing-yes-fallback",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

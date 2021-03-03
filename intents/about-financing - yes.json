@@ -1,0 +1,52 @@
+{
+  "id": "5f038dc9-c3dd-48e6-b3fe-32344aa062d4",
+  "parentId": "04b8442a-d91f-4e17-a9c2-cda61eaa75d0",
+  "rootParentId": "04b8442a-d91f-4e17-a9c2-cda61eaa75d0",
+  "name": "about-financing - yes",
+  "auto": true,
+  "contexts": [
+    "about-financing-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "about-financing.about-financing-yes",
+      "affectedContexts": [
+        {
+          "name": "Financing",
+          "lifespan": 5
+        },
+        {
+          "name": "details",
+          "lifespan": 5
+        },
+        {
+          "name": "about-financing-yes-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "With good FICO score, ZERO rate is best option. This is for 6 months."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

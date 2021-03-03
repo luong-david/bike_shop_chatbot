@@ -1,0 +1,39 @@
+{
+  "id": "39ae7633-53bf-4ea0-a083-08584d7dfa80",
+  "parentId": "04b8442a-d91f-4e17-a9c2-cda61eaa75d0",
+  "rootParentId": "04b8442a-d91f-4e17-a9c2-cda61eaa75d0",
+  "name": "about-financing - later",
+  "auto": true,
+  "contexts": [
+    "about-financing-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "about-financing.about-financing-later",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "No problem. We are here to give you the best financing deal."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

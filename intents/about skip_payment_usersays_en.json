@@ -1,0 +1,28 @@
+[
+  {
+    "id": "37e59534-9026-41d2-8eda-ee3754fa909b",
+    "data": [
+      {
+        "text": "Is it possible to skip payment?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "90171818-31b5-475b-8601-ae214e946490",
+    "data": [
+      {
+        "text": "Can I skip payment?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

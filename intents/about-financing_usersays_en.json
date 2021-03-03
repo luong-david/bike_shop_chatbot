@@ -1,0 +1,28 @@
+[
+  {
+    "id": "ac0b82f6-2f7f-4180-b961-8f3c49adeaa9",
+    "data": [
+      {
+        "text": "Is down payment required?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d69def40-3457-4927-89af-91e9b561b4e7",
+    "data": [
+      {
+        "text": "Do you offer financing?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
