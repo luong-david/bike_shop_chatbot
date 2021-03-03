@@ -1,0 +1,9 @@
+{
+  "id": "be41ac24-2dd4-43c3-a1e3-ab66a9a18315",
+  "name": "gear_type",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

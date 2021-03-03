@@ -1,0 +1,125 @@
+[
+  {
+    "id": "d23936f4-83f0-4076-abc3-b8b55f014db7",
+    "data": [
+      {
+        "text": "ground air ",
+        "userDefined": false
+      },
+      {
+        "text": "freight",
+        "meta": "@sys.address",
+        "alias": "address",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "969da376-cf9a-40ea-8bac-de4a9f44ec2a",
+    "data": [
+      {
+        "text": "ground shipment",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ba874559-b426-4018-97a9-61150b9df1f3",
+    "data": [
+      {
+        "text": "mail order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6a7e0592-4899-4a7b-8bf5-2e40f25509b4",
+    "data": [
+      {
+        "text": "send my order by mail",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "acc3c645-b8a9-4fd6-b235-28ee82136a9e",
+    "data": [
+      {
+        "text": "ups my order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6ac96c30-0099-4b99-a085-65f1d2a6558b",
+    "data": [
+      {
+        "text": "fedex my order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a94cc8fe-e1ce-429d-9047-a71f852d9bd7",
+    "data": [
+      {
+        "text": "ship my item",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "df9783c4-f05e-4b4c-9164-f592f9ecf91d",
+    "data": [
+      {
+        "text": "deliver",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "10092447-edc7-4867-9229-1c9e9aa2451d",
+    "data": [
+      {
+        "text": "delivery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "value": "safety",
+    "synonyms": [
+      "safety",
+      "lights",
+      "reflective vests",
+      "helmets",
+      "bells",
+      "horns",
+      "mirrors",
+      "locks"
+    ]
+  },
+  {
+    "value": "comfort",
+    "synonyms": [
+      "comfort",
+      "gloves",
+      "warmers",
+      "storage",
+      "racks",
+      "fenders"
+    ]
+  },
+  {
+    "value": "electronics",
+    "synonyms": [
+      "electronics",
+      "phone holder",
+      "power meter",
+      "GPS",
+      "headphones",
+      "speakers",
+      "bluetooth",
+      "cameras",
+      "computers"
+    ]
+  },
+  {
+    "value": "shoes",
+    "synonyms": [
+      "shoes",
+      "clip-less"
+    ]
+  },
+  {
+    "value": "accessories",
+    "synonyms": [
+      "accessories",
+      "chain",
+      "handlebar",
+      "grip",
+      "fork",
+      "saddle",
+      "shifters",
+      "groupo",
+      "brake pads",
+      "wheel rim",
+      "tires",
+      "tubes",
+      "spokes",
+      "pedals",
+      "cables",
+      "pumps",
+      "trainers"
+    ]
+  }
+]

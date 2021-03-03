@@ -1,0 +1,49 @@
+[
+  {
+    "value": "credit card",
+    "synonyms": [
+      "credit card",
+      "visa",
+      "mastercard",
+      "american express",
+      "amex",
+      "cc",
+      "credit"
+    ]
+  },
+  {
+    "value": "debit card",
+    "synonyms": [
+      "debit card",
+      "debit",
+      "checking"
+    ]
+  },
+  {
+    "value": "e-payment",
+    "synonyms": [
+      "Venmo",
+      "PayPal"
+    ]
+  },
+  {
+    "value": "cash",
+    "synonyms": [
+      "cash",
+      "money",
+      "dough",
+      "mula",
+      "dinero",
+      "bucks",
+      "greens"
+    ]
+  },
+  {
+    "value": "check",
+    "synonyms": [
+      "check",
+      "cashier check",
+      "money order"
+    ]
+  }
+]

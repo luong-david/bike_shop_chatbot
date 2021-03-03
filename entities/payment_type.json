@@ -1,0 +1,9 @@
+{
+  "id": "a4246e8d-d704-4a23-b67f-50a0dd2b3eff",
+  "name": "payment_type",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}
