@@ -1,0 +1,41 @@
+[
+  {
+    "id": "410dc481-4b16-4331-aa77-91d049b38e3c",
+    "data": [
+      {
+        "text": "Pay",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "05a7c413-148e-433e-8102-1f5b8acff1e0",
+    "data": [
+      {
+        "text": "Checkout",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2b6b4158-d7a0-44a6-91d5-18d5d40d0df7",
+    "data": [
+      {
+        "text": "Payment",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  }
+]

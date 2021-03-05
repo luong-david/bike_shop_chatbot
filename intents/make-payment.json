@@ -1,0 +1,93 @@
+{
+  "id": "def1f320-b8af-460b-b80a-9ccf5b87f65e",
+  "name": "make-payment",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "ef889c11-a6c9-4203-9ce0-466e78264ee8",
+          "name": "payment",
+          "required": true,
+          "dataType": "@payment_type",
+          "value": "$payment",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Would you like to pay?  Examples are credit card, debit card, Venmo, or PayPal  If none of these work, say \"appointment\" so you can come into our store for cash or check payments."
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "635dd699-ff8e-4387-8b90-56977ada3fed",
+          "name": "address",
+          "required": true,
+          "dataType": "@sys.address",
+          "value": "$address",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What is your billing address?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "6cf42edc-dd90-49f3-9b26-8406155c86ad",
+          "name": "pay_info",
+          "required": true,
+          "dataType": "@sys.number-integer",
+          "value": "$pay_info",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What is the account number associated with your payment type?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Great, let\u0027s complete your $payment transaction!  I have $address and your payment account number $pay_info on the order.  Would you like to make an appointment to pick up or have your item delivered?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
