@@ -2,15 +2,22 @@
   "id": "dd38460a-3151-45e3-a76e-85d2fcfe48ff",
   "name": "make-delivery",
   "auto": true,
-  "contexts": [],
+  "contexts": [
+    "make-payment-followup"
+  ],
   "responses": [
     {
       "resetContexts": false,
       "action": "",
-      "affectedContexts": [],
+      "affectedContexts": [
+        {
+          "name": "make-payment-followup",
+          "lifespan": 5
+        }
+      ],
       "parameters": [
         {
-          "id": "cf495774-4a18-4ea8-a5a1-5dbf71ad18b6",
+          "id": "f450e7f7-596a-4aa6-9fbd-66b3c8b34752",
           "name": "address",
           "required": true,
           "dataType": "@sys.address",
@@ -40,7 +47,7 @@
           "textToSpeech": "",
           "lang": "en",
           "speech": [
-            "Great!  I have the address to ship your order to as $address, expect your item soon.  Can I help you with anything else?"
+            "Great!  I have the address to ship your order to as $address, expect your item soon!  Please think of and visit us again in the future!"
           ],
           "condition": ""
         }
@@ -55,5 +62,6 @@
   "events": [],
   "conditionalResponses": [],
   "condition": "",
-  "conditionalFollowupEvents": []
+  "conditionalFollowupEvents": [],
+  "endInteraction": true
 }

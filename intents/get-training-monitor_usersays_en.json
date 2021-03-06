@@ -1,9 +1,9 @@
 [
   {
-    "id": "65c28178-72fb-4c21-82b1-7b2e6ccc9c9d",
+    "id": "f85f72e3-ca6e-4bd8-a9e3-b1a54ee931af",
     "data": [
       {
-        "text": "What promotions do you have?",
+        "text": "I would like like to know about fitness trackers.",
         "userDefined": false
       }
     ],
@@ -13,10 +13,10 @@
     "updated": 0
   },
   {
-    "id": "37e59534-9026-41d2-8eda-ee3754fa909b",
+    "id": "5cfd4e7d-cd14-448f-8a15-d8614d4b9b63",
     "data": [
       {
-        "text": "Is it possible to skip payment?",
+        "text": "I am interested in a training monitor",
         "userDefined": false
       }
     ],
@@ -26,10 +26,10 @@
     "updated": 0
   },
   {
-    "id": "90171818-31b5-475b-8601-ae214e946490",
+    "id": "99158dfb-d0f3-457a-a8ab-12f824c1ff6b",
     "data": [
       {
-        "text": "Can I skip payment?",
+        "text": "What training monitors do you suggest?",
         "userDefined": false
       }
     ],

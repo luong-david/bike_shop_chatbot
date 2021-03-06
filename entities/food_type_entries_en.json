@@ -1,0 +1,34 @@
+[
+  {
+    "value": "eat",
+    "synonyms": [
+      "eat",
+      "solid",
+      "bar",
+      "fruits",
+      "nuts",
+      "candy",
+      "honey waffle",
+      "energy bar",
+      "blocks",
+      "chews",
+      "gels"
+    ]
+  },
+  {
+    "value": "drink",
+    "synonyms": [
+      "drink",
+      "mix",
+      "powder",
+      "water",
+      "gatorade",
+      "prolong",
+      "coffee",
+      "Nuun",
+      "GU",
+      "hydration drink",
+      "electrolyte mix"
+    ]
+  }
+]

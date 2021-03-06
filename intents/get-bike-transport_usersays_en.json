@@ -1,0 +1,60 @@
+[
+  {
+    "id": "2d27ca07-e015-4480-ba83-9940d7343147",
+    "data": [
+      {
+        "text": "Do you have bike carrier systems?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3fe6ab0b-f226-4f79-896b-3fcc3eb9cd8f",
+    "data": [
+      {
+        "text": "I am interested in a bike transport system",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f18c3d85-39c7-4850-8002-449b588a67d4",
+    "data": [
+      {
+        "text": "What is a ",
+        "userDefined": false
+      },
+      {
+        "text": "good",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " bike ",
+        "userDefined": false
+      },
+      {
+        "text": "rack",
+        "meta": "@sys.any",
+        "alias": "mount",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

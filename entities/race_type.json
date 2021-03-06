@@ -1,0 +1,9 @@
+{
+  "id": "2869e5f4-e5cc-45a8-a4c3-f4e4c88d1ee9",
+  "name": "race_type",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

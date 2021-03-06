@@ -7,10 +7,15 @@
     {
       "resetContexts": false,
       "action": "",
-      "affectedContexts": [],
+      "affectedContexts": [
+        {
+          "name": "make-payment-followup",
+          "lifespan": 2
+        }
+      ],
       "parameters": [
         {
-          "id": "ef889c11-a6c9-4203-9ce0-466e78264ee8",
+          "id": "a21a72ec-688d-4f1d-8d7c-198650024241",
           "name": "payment",
           "required": true,
           "dataType": "@payment_type",
@@ -20,7 +25,7 @@
           "prompts": [
             {
               "lang": "en",
-              "value": "Would you like to pay?  Examples are credit card, debit card, Venmo, or PayPal  If none of these work, say \"appointment\" so you can come into our store for cash or check payments."
+              "value": "Let\u0027s get your payment transaction started.  Examples are credit card, debit card, Venmo, or PayPal  If none of these work, say \"appointment\" so you can come into our store for cash or check payments."
             }
           ],
           "promptMessages": [],
@@ -29,7 +34,7 @@
           "outputDialogContexts": []
         },
         {
-          "id": "635dd699-ff8e-4387-8b90-56977ada3fed",
+          "id": "4fefd275-8bda-4988-b25a-f513b89cfd16",
           "name": "address",
           "required": true,
           "dataType": "@sys.address",
@@ -48,7 +53,7 @@
           "outputDialogContexts": []
         },
         {
-          "id": "6cf42edc-dd90-49f3-9b26-8406155c86ad",
+          "id": "52559e18-87a4-4373-808f-e16ba567af3b",
           "name": "pay_info",
           "required": true,
           "dataType": "@sys.number-integer",

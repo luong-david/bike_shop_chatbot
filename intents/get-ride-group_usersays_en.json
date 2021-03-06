@@ -1,9 +1,9 @@
 [
   {
-    "id": "65c28178-72fb-4c21-82b1-7b2e6ccc9c9d",
+    "id": "5d3aa462-30f5-4db6-9be9-c7100806f3ac",
     "data": [
       {
-        "text": "What promotions do you have?",
+        "text": "When do group rides meet?",
         "userDefined": false
       }
     ],
@@ -13,10 +13,10 @@
     "updated": 0
   },
   {
-    "id": "37e59534-9026-41d2-8eda-ee3754fa909b",
+    "id": "40cc0390-8b66-4049-b977-49e696474bd8",
     "data": [
       {
-        "text": "Is it possible to skip payment?",
+        "text": "What kind of group rides can I join?",
         "userDefined": false
       }
     ],
@@ -26,10 +26,10 @@
     "updated": 0
   },
   {
-    "id": "90171818-31b5-475b-8601-ae214e946490",
+    "id": "db6b292c-7859-49a3-a990-c99da57c3165",
     "data": [
       {
-        "text": "Can I skip payment?",
+        "text": "I want to join a ride group",
         "userDefined": false
       }
     ],

@@ -1,23 +1,28 @@
 {
-  "id": "9a117404-0bbc-47fe-a703-2634627f6cec",
-  "name": "set-language",
+  "id": "f3d988ea-1009-4b95-88fa-d5f8fbbff0b2",
+  "name": "get-nutrition",
   "auto": true,
   "contexts": [],
   "responses": [
     {
-      "resetContexts": true,
+      "resetContexts": false,
       "action": "",
       "affectedContexts": [],
       "parameters": [
         {
-          "id": "1a81d271-0104-4fcf-bc11-cb2b174759af",
-          "name": "language",
+          "id": "5f7ae093-9b1e-4752-b0fa-d15858f8c92c",
+          "name": "consume",
           "required": true,
-          "dataType": "@sys.language",
-          "value": "$language",
+          "dataType": "@sys.any",
+          "value": "$consume",
           "defaultValue": "",
           "isList": false,
-          "prompts": [],
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Do you prefer to drink or eat your food during your rides?"
+            }
+          ],
           "promptMessages": [],
           "noMatchPromptMessages": [],
           "noInputPromptMessages": [],
@@ -31,7 +36,7 @@
           "textToSpeech": "",
           "lang": "en",
           "speech": [
-            "Wow!  I didn\u0027t know you spoke $language"
+            "We carry a wide selection foods that you can $consume on your rides!  Say make an appointment and we can offer you some samples then."
           ],
           "condition": ""
         }

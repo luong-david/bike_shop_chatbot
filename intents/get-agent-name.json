@@ -8,7 +8,31 @@
       "resetContexts": false,
       "action": "",
       "affectedContexts": [],
-      "parameters": [],
+      "parameters": [
+        {
+          "id": "32f02700-7917-4a45-9424-28f3ec6a33b8",
+          "name": "name",
+          "required": true,
+          "dataType": "@sys.any",
+          "value": "$name",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Nice to meet you, can I get your name?"
+            },
+            {
+              "lang": "en",
+              "value": "Welcome!  What is your name?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
       "messages": [
         {
           "type": "0",
@@ -16,8 +40,8 @@
           "textToSpeech": "",
           "lang": "en",
           "speech": [
-            "My name is Lucas!",
-            "Lucas!"
+            "Great $name!  My name is name is BikeBot!   I can tell you the shop hours, make an appointment, describe our bikes, or sell you a bike. What can I do for you?",
+            "Wonderful $name!  I am BikeBot, here to help you!   I can tell you the shop hours, make an appointment, describe our bikes, or sell you a bike. What can I do for you?"
           ],
           "condition": ""
         }

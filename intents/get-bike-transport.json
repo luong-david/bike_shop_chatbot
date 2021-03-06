@@ -1,0 +1,69 @@
+{
+  "id": "9992485b-039f-4065-b8cd-33d55b88f265",
+  "name": "get-bike-transport",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "4b7153f3-f3ff-4652-94dd-9bf9067d93cc",
+          "name": "mount",
+          "required": true,
+          "dataType": "@sys.any",
+          "value": "$mount",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Would you like a a mount for your car roof or trunk?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "6a4ff4c0-cb48-4a0e-9e32-dc44e7af7bc6",
+          "name": "budget",
+          "required": true,
+          "dataType": "@sys.unit-currency",
+          "value": "$budget",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Cool, we can get you riding your bike on your favorite faraway trail in no time with our selection of $mount mounts.  And they are all within your $budget!  Say make an appointment to come into our store to learn more or say purchase if you\u0027re already decided."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

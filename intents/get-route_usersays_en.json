@@ -1,0 +1,61 @@
+[
+  {
+    "id": "e0dabcc5-3cb6-4add-93d2-e7d1759adc10",
+    "data": [
+      {
+        "text": "What is a ",
+        "userDefined": false
+      },
+      {
+        "text": "good",
+        "meta": "@temperature",
+        "alias": "temperature",
+        "userDefined": false
+      },
+      {
+        "text": " trail?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "38aa5c53-1fad-45cf-a73d-571bc165cf96",
+    "data": [
+      {
+        "text": "Where do you recommend I bike?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "73cf2a0b-2380-4645-b7e3-a4304d60121e",
+    "data": [
+      {
+        "text": "Tell me a ",
+        "userDefined": false
+      },
+      {
+        "text": "good",
+        "meta": "@temperature",
+        "alias": "temperature",
+        "userDefined": false
+      },
+      {
+        "text": " bike route",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

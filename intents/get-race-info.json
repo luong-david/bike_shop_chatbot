@@ -1,6 +1,6 @@
 {
-  "id": "38f194c7-7390-422a-a85c-4b2f9a84ecc1",
-  "name": "get-gear",
+  "id": "8e7b7430-fed9-4116-b2d7-bc06b8b67efa",
+  "name": "get-race-info",
   "auto": true,
   "contexts": [],
   "responses": [
@@ -10,25 +10,17 @@
       "affectedContexts": [],
       "parameters": [
         {
-          "id": "2e6c0dbb-a8b4-499d-be95-0aac4ce00274",
-          "name": "money",
+          "id": "28956a6d-e223-4202-a595-495b7694de8c",
+          "name": "raceevent",
           "required": true,
-          "dataType": "@sys.unit-currency",
-          "value": "$money",
+          "dataType": "@race_type",
+          "value": "$raceevent",
           "defaultValue": "",
           "isList": false,
           "prompts": [
             {
               "lang": "en",
-              "value": "How much do you have to spend on gear?"
-            },
-            {
-              "lang": "en",
-              "value": "What is your budget for bike gear?"
-            },
-            {
-              "lang": "en",
-              "value": "What is your price point for the bike gear?"
+              "value": "Are you interested in road races, criteriums, track races, trail races, or time trials?"
             }
           ],
           "promptMessages": [],
@@ -37,21 +29,17 @@
           "outputDialogContexts": []
         },
         {
-          "id": "fd1ba2d1-476c-446c-b773-3fdbd0d27b1d",
-          "name": "gear_type",
+          "id": "adc6ca72-ff78-4094-ad24-c1b2edb3b91d",
+          "name": "date",
           "required": true,
-          "dataType": "@gear_type",
-          "value": "$gear_type",
+          "dataType": "@sys.date",
+          "value": "$date",
           "defaultValue": "",
           "isList": false,
           "prompts": [
             {
               "lang": "en",
-              "value": "Tell me the kind of gear you are looking for."
-            },
-            {
-              "lang": "en",
-              "value": "What kind of gear are you considering?"
+              "value": "Which date are you interested to race?"
             }
           ],
           "promptMessages": [],
@@ -67,7 +55,7 @@
           "textToSpeech": "",
           "lang": "en",
           "speech": [
-            "Sounds like you are looking for $gear_type gear!  We carry a variety of brands within your $money budget, you can buy one now or set up an appointment to view in person.  Which would you like?  Say \"payment\" or \"appointment\""
+            "Great you feel the need for speed!  There is a $raceevent race on $date  We wish you a safe event and happy training until then!  We look forward to hearing about your experience."
           ],
           "condition": ""
         }
@@ -82,5 +70,6 @@
   "events": [],
   "conditionalResponses": [],
   "condition": "",
-  "conditionalFollowupEvents": []
+  "conditionalFollowupEvents": [],
+  "endInteraction": true
 }

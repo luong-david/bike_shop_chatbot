@@ -1,0 +1,32 @@
+[
+  {
+    "value": "criterium",
+    "synonyms": [
+      "criterium",
+      "crit"
+    ]
+  },
+  {
+    "value": "track",
+    "synonyms": [
+      "track",
+      "velodrome"
+    ]
+  },
+  {
+    "value": "time trial",
+    "synonyms": [
+      "time trial",
+      "TT"
+    ]
+  },
+  {
+    "value": "trail",
+    "synonyms": [
+      "trail",
+      "mountain",
+      "cross",
+      "dirt"
+    ]
+  }
+]

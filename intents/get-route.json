@@ -1,6 +1,6 @@
 {
-  "id": "67099476-127e-4adf-b710-5a9f56117a2d",
-  "name": "set-programming-language",
+  "id": "1c6c07d7-fe20-4f55-a405-777d9aac601b",
+  "name": "get-route",
   "auto": true,
   "contexts": [],
   "responses": [
@@ -10,11 +10,11 @@
       "affectedContexts": [],
       "parameters": [
         {
-          "id": "95d406f1-a9eb-4a39-ab0e-9fa19d951bc0",
-          "name": "language-programming",
+          "id": "fbc03f64-0d19-4319-8a9e-4ffa5c4d11f3",
+          "name": "temperature",
           "required": false,
-          "dataType": "@language-programming",
-          "value": "$language-programming",
+          "dataType": "@temperature",
+          "value": "$temperature",
           "defaultValue": "",
           "isList": false,
           "prompts": [],
@@ -31,7 +31,9 @@
           "textToSpeech": "",
           "lang": "en",
           "speech": [
-            "$language-programming is an excellent programming language."
+            "You can ride on Skyline Boulevard!  Do you want to buy a bike or make an appointment to come in to book a rental?",
+            "If you like to climb, you can try Mt Tam, Mt Hamilton, or Mt Diablo!  Do you want to buy a bike or make an appointment to come in to book a rental?",
+            "The route from Fishermen\u0027s Wharf to the Golden Gate Bridge is a tourist favorite!  Do you want to buy a bike or make an appointment to come in to book a rental?"
           ],
           "condition": ""
         }

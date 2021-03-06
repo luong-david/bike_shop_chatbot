@@ -1,0 +1,9 @@
+{
+  "id": "3463f602-96df-4c66-a3bc-2f1c7f11ca15",
+  "name": "monitor_type",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

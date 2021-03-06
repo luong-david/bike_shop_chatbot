@@ -1,0 +1,38 @@
+{
+  "id": "708540db-3c98-4ee7-a066-c1b375e96fba",
+  "parentId": "def1f320-b8af-460b-b80a-9ccf5b87f65e",
+  "rootParentId": "def1f320-b8af-460b-b80a-9ccf5b87f65e",
+  "name": "make-payment - fallback",
+  "contexts": [
+    "make-payment-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "make-payment.make-payment-fallback",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Unfortunately, we do not accept that as payment at this time.  Please say credit, debit, Venmo, Paypal, or say make appointment to pay cash/check in person.  We apologize for the inconvenience."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

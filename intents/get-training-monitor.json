@@ -1,6 +1,6 @@
 {
-  "id": "38f194c7-7390-422a-a85c-4b2f9a84ecc1",
-  "name": "get-gear",
+  "id": "4c917b97-2292-4451-809c-49f40842c12a",
+  "name": "get-training-monitor",
   "auto": true,
   "contexts": [],
   "responses": [
@@ -10,25 +10,21 @@
       "affectedContexts": [],
       "parameters": [
         {
-          "id": "2e6c0dbb-a8b4-499d-be95-0aac4ce00274",
-          "name": "money",
+          "id": "0e163498-bb81-49a6-80ca-39d8c6668b69",
+          "name": "monitor",
           "required": true,
-          "dataType": "@sys.unit-currency",
-          "value": "$money",
+          "dataType": "@monitor_type",
+          "value": "$monitor",
           "defaultValue": "",
           "isList": false,
           "prompts": [
             {
               "lang": "en",
-              "value": "How much do you have to spend on gear?"
+              "value": "Would you like a heart rate monitor or a power meter?"
             },
             {
               "lang": "en",
-              "value": "What is your budget for bike gear?"
-            },
-            {
-              "lang": "en",
-              "value": "What is your price point for the bike gear?"
+              "value": "What kind of monitor are you interested in?"
             }
           ],
           "promptMessages": [],
@@ -37,21 +33,17 @@
           "outputDialogContexts": []
         },
         {
-          "id": "fd1ba2d1-476c-446c-b773-3fdbd0d27b1d",
-          "name": "gear_type",
+          "id": "621d3c1c-7eda-4832-af02-a850425910ec",
+          "name": "budget",
           "required": true,
-          "dataType": "@gear_type",
-          "value": "$gear_type",
+          "dataType": "@sys.unit-currency",
+          "value": "$budget",
           "defaultValue": "",
           "isList": false,
           "prompts": [
             {
               "lang": "en",
-              "value": "Tell me the kind of gear you are looking for."
-            },
-            {
-              "lang": "en",
-              "value": "What kind of gear are you considering?"
+              "value": "What is your budget?"
             }
           ],
           "promptMessages": [],
@@ -67,7 +59,7 @@
           "textToSpeech": "",
           "lang": "en",
           "speech": [
-            "Sounds like you are looking for $gear_type gear!  We carry a variety of brands within your $money budget, you can buy one now or set up an appointment to view in person.  Which would you like?  Say \"payment\" or \"appointment\""
+            "Great, I have $monitor s within your $budget You can make an appointment to come into the store to purchase or say payment to check out now."
           ],
           "condition": ""
         }

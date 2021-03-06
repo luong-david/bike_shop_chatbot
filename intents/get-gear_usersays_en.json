@@ -1,0 +1,28 @@
+[
+  {
+    "id": "20c54d3f-eb4d-417b-a3f8-bdf9f0458099",
+    "data": [
+      {
+        "text": "What kind of gear are you considering?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "68be45b4-873d-41cf-8c2a-d914d52ef1e8",
+    "data": [
+      {
+        "text": "Tell me the kind of gear are you looking for.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

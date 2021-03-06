@@ -1,0 +1,34 @@
+[
+  {
+    "value": "heart rate monitor",
+    "synonyms": [
+      "heart rate monitor",
+      "HRM",
+      "pulse",
+      "strap",
+      "heart"
+    ]
+  },
+  {
+    "value": "power meter",
+    "synonyms": [
+      "power meter",
+      "watts",
+      "FTP",
+      "powertap",
+      "pedal",
+      "crank"
+    ]
+  },
+  {
+    "value": "basic",
+    "synonyms": [
+      "basic",
+      "generic",
+      "speedometer",
+      "pedometer",
+      "odometer",
+      "GPS"
+    ]
+  }
+]

@@ -1,0 +1,105 @@
+{
+  "id": "be8bd963-3123-485c-b4e2-89ac270923b9",
+  "name": "get-ride-group",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "3fc24f94-39c5-4962-bb59-efe56b1fd935",
+          "name": "ridelength",
+          "required": true,
+          "dataType": "@sys.any",
+          "value": "$ridelength",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Do you prefer short, medium, or long rides?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "6aa80889-db6a-4b96-a708-850f217bce36",
+          "name": "ridepace",
+          "required": true,
+          "dataType": "@sys.any",
+          "value": "$ridepace",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Do you want to to ride easy, moderate, or fast?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Great!  You can join our $ridelength ride group, they go at a $ridepace pace.  You can meet them on Saturdays at 9am.  Do you want to make appointment to rent a bike or do you want to buy a bike?  If neither, read the nutrition info below and have a nice ride!  If you are interested in our nutrition offering, say nutrition."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "‌Ride Duration: 1 hour or less\nPrimary Concern: Fluid replenishment ‌\nWhat to Drink: Plain water or a low-carb, electrolyte hydration drink\nWhat to Eat: Most people start with enough stored energy for a 60-minute workout, but carry a banana just in case you’re out longer than expected or you start to fade.\nBonus Tip: For optimal recovery, eat a full meal within an hour of finishing an intense workout."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Ride Duration: 1 to 3 hours‌\nPrimary Concern: Carbohydrate replenishment‌\nWhat to Drink: 2 bottles low-carb, electrolyte hydration drinks, at least\nWhat to Eat: 30 to 60g of carb per hour from food.\nBonus Tip: Don’t wait until your hungry or thirsty to eat and drink. Take small nibbles and sips from the get-go."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Ride Duration: 3 hours or more‌\nPrimary Concern: Carbohydrate and electrolyte replenishment; food boredom‌ or palette fatigue\nWhat to Drink: 2 bottles low-carb, electrolyte hydration drinks, at least‌\nWhat to Eat: 30 to 60g of carbs per hour, total. Digestion can get harder as rides get longer, so eat more solids at the beginning of the ride, and switch to blocks, chews, and other easily-digested foods during the final part of the ride. Just be sure to drink plenty of fluid to chase down gels, so you don’t get GI upset.\nBonus Tip: Supplement bars and gels with carb-rich, low-protein, moderate-fat \"real\" foods. Don\u0027t worry about specific amounts of protein or fat; just eat what tastes good so you keep eating."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "endInteraction": true
+}
