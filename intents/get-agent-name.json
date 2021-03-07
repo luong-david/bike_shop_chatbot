@@ -10,7 +10,7 @@
       "affectedContexts": [],
       "parameters": [
         {
-          "id": "32f02700-7917-4a45-9424-28f3ec6a33b8",
+          "id": "bc64c960-a647-46e4-99e1-c864fe086463",
           "name": "name",
           "required": true,
           "dataType": "@sys.any",
@@ -25,6 +25,10 @@
             {
               "lang": "en",
               "value": "Welcome!  What is your name?"
+            },
+            {
+              "lang": "en",
+              "value": "Hello!  Please tell me your name?"
             }
           ],
           "promptMessages": [],

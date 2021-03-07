@@ -10,7 +10,7 @@
       "affectedContexts": [],
       "parameters": [
         {
-          "id": "3fc24f94-39c5-4962-bb59-efe56b1fd935",
+          "id": "f9d23b58-159f-407a-afd3-83beaf674d0f",
           "name": "ridelength",
           "required": true,
           "dataType": "@sys.any",
@@ -29,7 +29,7 @@
           "outputDialogContexts": []
         },
         {
-          "id": "6aa80889-db6a-4b96-a708-850f217bce36",
+          "id": "4597b9a9-17e9-464b-9545-bcfee231c8ae",
           "name": "ridepace",
           "required": true,
           "dataType": "@sys.any",
@@ -65,7 +65,10 @@
           "textToSpeech": "",
           "lang": "en",
           "speech": [
-            "‌Ride Duration: 1 hour or less\nPrimary Concern: Fluid replenishment ‌\nWhat to Drink: Plain water or a low-carb, electrolyte hydration drink\nWhat to Eat: Most people start with enough stored energy for a 60-minute workout, but carry a banana just in case you’re out longer than expected or you start to fade.\nBonus Tip: For optimal recovery, eat a full meal within an hour of finishing an intense workout."
+            "Tip for short rides (1 hour or less): Focus just on fluid replenishment ‌",
+            "Tip for short rides (1 hour or less): For optimal recovery, eat a full meal within an hour of finishing an intense workout.",
+            "Tip for short rides (1 hour or less):  Most people start with enough stored energy for a 60-minute workout, but carry a banana just in case you’re out longer than expected or you start to fade.",
+            "Tip for short rides (1 hour or less):  Be sure to carry plain water or a low-carb, electrolyte hydration drink"
           ],
           "condition": ""
         },
@@ -75,7 +78,10 @@
           "textToSpeech": "",
           "lang": "en",
           "speech": [
-            "Ride Duration: 1 to 3 hours‌\nPrimary Concern: Carbohydrate replenishment‌\nWhat to Drink: 2 bottles low-carb, electrolyte hydration drinks, at least\nWhat to Eat: 30 to 60g of carb per hour from food.\nBonus Tip: Don’t wait until your hungry or thirsty to eat and drink. Take small nibbles and sips from the get-go."
+            "Tip for medium rides (1 to 3 hours):  Focus on carbohydrate replenishment‌",
+            "Tip for medium rides (1 to 3 hours): 2 bottles low-carb, electrolyte hydration drinks, at least",
+            "Tip for medium rides (1 to 3 hours): 30 to 60g of carb per hour from food.",
+            "Tip for medium rides (1 to 3 hours): Don’t wait until your hungry or thirsty to eat and drink. Take small nibbles and sips from the get-go."
           ],
           "condition": ""
         },
@@ -85,7 +91,10 @@
           "textToSpeech": "",
           "lang": "en",
           "speech": [
-            "Ride Duration: 3 hours or more‌\nPrimary Concern: Carbohydrate and electrolyte replenishment; food boredom‌ or palette fatigue\nWhat to Drink: 2 bottles low-carb, electrolyte hydration drinks, at least‌\nWhat to Eat: 30 to 60g of carbs per hour, total. Digestion can get harder as rides get longer, so eat more solids at the beginning of the ride, and switch to blocks, chews, and other easily-digested foods during the final part of the ride. Just be sure to drink plenty of fluid to chase down gels, so you don’t get GI upset.\nBonus Tip: Supplement bars and gels with carb-rich, low-protein, moderate-fat \"real\" foods. Don\u0027t worry about specific amounts of protein or fat; just eat what tastes good so you keep eating."
+            "Tip for medium rides (3 hours or more‌): Focus on carbohydrate and electrolyte replenishment; food boredom‌ or palette fatigue",
+            "Tip for long rides (3 hours or more‌): 2 bottles low-carb, electrolyte hydration drinks, at least‌",
+            "Tip for long rides (3 hours or more‌):  30 to 60g of carbs per hour, total. Digestion can get harder as rides get longer, so eat more solids at the beginning of the ride, and switch to blocks, chews, and other easily-digested foods during the final part of the ride. Just be sure to drink plenty of fluid to chase down gels, so you don’t get GI upset.",
+            "Tip for long rides (3 hours or more‌): Supplement bars and gels with carb-rich, low-protein, moderate-fat \"real\" foods. Don\u0027t worry about specific amounts of protein or fat; just eat what tastes good so you keep eating."
           ],
           "condition": ""
         }

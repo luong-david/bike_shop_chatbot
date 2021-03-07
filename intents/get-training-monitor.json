@@ -10,7 +10,7 @@
       "affectedContexts": [],
       "parameters": [
         {
-          "id": "0e163498-bb81-49a6-80ca-39d8c6668b69",
+          "id": "7489c55b-3ef1-4f51-8361-67fe9ae77081",
           "name": "monitor",
           "required": true,
           "dataType": "@monitor_type",
@@ -33,7 +33,7 @@
           "outputDialogContexts": []
         },
         {
-          "id": "621d3c1c-7eda-4832-af02-a850425910ec",
+          "id": "4687a276-85c4-4812-84d2-465b6a2d0462",
           "name": "budget",
           "required": true,
           "dataType": "@sys.unit-currency",
@@ -59,7 +59,7 @@
           "textToSpeech": "",
           "lang": "en",
           "speech": [
-            "Great, I have $monitor s within your $budget You can make an appointment to come into the store to purchase or say payment to check out now."
+            "Great, I have a $monitor within your $budget You can make an appointment to come into the store to purchase or say payment to check out now."
           ],
           "condition": ""
         }

@@ -1,9 +1,9 @@
 [
   {
-    "id": "b5bc66ed-917e-4ca3-a7ec-46ea9bfd375c",
+    "id": "b3b47c42-92df-4953-9c0e-b4f17679b857",
     "data": [
       {
-        "text": "What are some local rides?",
+        "text": "Later",
         "userDefined": false
       }
     ],
@@ -13,10 +13,10 @@
     "updated": 0
   },
   {
-    "id": "ae17bf9d-4bbe-4e3a-9e1a-ca37f0abe7ac",
+    "id": "ddb9f2ab-25e9-4a80-af0a-efa77610c26a",
     "data": [
       {
-        "text": "I want to ride socially",
+        "text": "Hasta la vista",
         "userDefined": false
       }
     ],
@@ -26,10 +26,10 @@
     "updated": 0
   },
   {
-    "id": "2b886a54-c788-4071-9f89-e0fd726bb7c2",
+    "id": "32efd02e-6b86-40c5-a963-0c6276c747d2",
     "data": [
       {
-        "text": "I want to ride with other people",
+        "text": "Have a nice day",
         "userDefined": false
       }
     ],
@@ -39,10 +39,10 @@
     "updated": 0
   },
   {
-    "id": "5d3aa462-30f5-4db6-9be9-c7100806f3ac",
+    "id": "bee6b88d-de77-4e8d-8507-49ed0c6676b7",
     "data": [
       {
-        "text": "When do group rides meet?",
+        "text": "See you next time",
         "userDefined": false
       }
     ],
@@ -52,10 +52,10 @@
     "updated": 0
   },
   {
-    "id": "40cc0390-8b66-4049-b977-49e696474bd8",
+    "id": "998a6fdc-fd94-43fb-b370-de88d3a6cf3d",
     "data": [
       {
-        "text": "What kind of group rides can I join?",
+        "text": "See you later",
         "userDefined": false
       }
     ],
@@ -65,10 +65,10 @@
     "updated": 0
   },
   {
-    "id": "db6b292c-7859-49a3-a990-c99da57c3165",
+    "id": "e431e993-52d5-411c-bdf5-01f47ae599dd",
     "data": [
       {
-        "text": "I want to join a ride group",
+        "text": "Goodbye",
         "userDefined": false
       }
     ],

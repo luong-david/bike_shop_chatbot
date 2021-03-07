@@ -1,0 +1,37 @@
+{
+  "id": "65344f54-7a2e-4ee0-8802-ffc7bb5d1c07",
+  "name": "get-store-location",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "We are located at 123 Cycle Street, San Francisco, CA!",
+            "You can find us at 123 Cycle Street, San Francisco, CA!",
+            "Our one and only store is at 123 Cycle Street, San Francisco, CA!"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

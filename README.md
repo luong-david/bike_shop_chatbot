@@ -26,7 +26,7 @@ Financing
 Skip Payment
 Warranty
 
-The Virtual Assistant also has the ability to have at least 2 multi-turn conversations where the customer may ask follow up questions e.g. 
+The Virtual Assistant also has the ability to have at least 2 multi-turn conversations where the customer may ask follow up questions e.g. ask about nutrition after learning about group ride info, ask to make an appointment/payment after shopping for bike or gear 
 
 The chatbot also has the ability to collect data from the user, e.g., what kind of bike do you want, what is your budget, time and day of your desired appointment.
 

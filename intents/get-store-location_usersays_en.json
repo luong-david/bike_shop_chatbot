@@ -1,9 +1,18 @@
 [
   {
-    "id": "b5bc66ed-917e-4ca3-a7ec-46ea9bfd375c",
+    "id": "2942d7e3-cf74-4012-a2b4-b42d222d9e43",
     "data": [
       {
-        "text": "What are some local rides?",
+        "text": "Where is your ",
+        "userDefined": false
+      },
+      {
+        "text": "store",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
         "userDefined": false
       }
     ],
@@ -13,10 +22,10 @@
     "updated": 0
   },
   {
-    "id": "ae17bf9d-4bbe-4e3a-9e1a-ca37f0abe7ac",
+    "id": "6ab233f6-1fbe-41e4-a2be-9314677e3efb",
     "data": [
       {
-        "text": "I want to ride socially",
+        "text": "Where are you?",
         "userDefined": false
       }
     ],
@@ -26,10 +35,10 @@
     "updated": 0
   },
   {
-    "id": "2b886a54-c788-4071-9f89-e0fd726bb7c2",
+    "id": "1e40224e-3e1e-42b9-ae01-c78368013cff",
     "data": [
       {
-        "text": "I want to ride with other people",
+        "text": "Where can I find you?",
         "userDefined": false
       }
     ],
@@ -39,10 +48,10 @@
     "updated": 0
   },
   {
-    "id": "5d3aa462-30f5-4db6-9be9-c7100806f3ac",
+    "id": "59860a57-6396-4d6e-b7ab-46f466e3b6ec",
     "data": [
       {
-        "text": "When do group rides meet?",
+        "text": "What is your address?",
         "userDefined": false
       }
     ],
@@ -52,23 +61,19 @@
     "updated": 0
   },
   {
-    "id": "40cc0390-8b66-4049-b977-49e696474bd8",
+    "id": "1b44d8a7-0f53-4c40-ad85-411aee048966",
     "data": [
       {
-        "text": "What kind of group rides can I join?",
+        "text": "Where is your ",
         "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "lang": "en",
-    "updated": 0
-  },
-  {
-    "id": "db6b292c-7859-49a3-a990-c99da57c3165",
-    "data": [
+      },
       {
-        "text": "I want to join a ride group",
+        "text": "store",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " located?",
         "userDefined": false
       }
     ],

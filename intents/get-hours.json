@@ -10,7 +10,7 @@
       "affectedContexts": [],
       "parameters": [
         {
-          "id": "229305bc-049a-47ef-aa90-516e17d1905f",
+          "id": "b31beab1-5d78-4f91-a378-bf5802d8a722",
           "name": "date-time",
           "required": false,
           "dataType": "@sys.date-time",
@@ -24,7 +24,7 @@
           "outputDialogContexts": []
         },
         {
-          "id": "1942b897-3ed5-4e96-b70a-31f4c2915921",
+          "id": "37d3962a-6507-492f-862b-68d32bb5e12b",
           "name": "time-period",
           "required": false,
           "dataType": "@sys.time-period",
@@ -45,7 +45,11 @@
           "textToSpeech": "",
           "lang": "en",
           "speech": [
-            "We\u0027re open from 9 AM to 6 PM every day. Do you want me to shop or learn about our bikes?"
+            "We\u0027re open from 9 AM to 6 PM every day. Ask me anything bike related such as describe bikes to learn about our bike selection.",
+            "We\u0027re open from 9 AM to 6 PM every day. Ask me anything bike related such as buy bikes to choose and purchase a bike.",
+            "We\u0027re open from 9 AM to 6 PM every day. Ask me anything bike related such as nutrition to learn about our selection.",
+            "We\u0027re open from 9 AM to 6 PM every day. Ask me anything bike related such as race info to learn about an upcoming event.",
+            "We\u0027re open from 9 AM to 6 PM every day. Ask me anything bike related such as group ride to see what rides you can join."
           ],
           "condition": ""
         }

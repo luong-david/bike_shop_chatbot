@@ -10,7 +10,7 @@
       "affectedContexts": [],
       "parameters": [
         {
-          "id": "fbc03f64-0d19-4319-8a9e-4ffa5c4d11f3",
+          "id": "f0e15c83-c09e-41d9-ab9d-b5c9e6cc6e42",
           "name": "temperature",
           "required": false,
           "dataType": "@temperature",
@@ -33,7 +33,8 @@
           "speech": [
             "You can ride on Skyline Boulevard!  Do you want to buy a bike or make an appointment to come in to book a rental?",
             "If you like to climb, you can try Mt Tam, Mt Hamilton, or Mt Diablo!  Do you want to buy a bike or make an appointment to come in to book a rental?",
-            "The route from Fishermen\u0027s Wharf to the Golden Gate Bridge is a tourist favorite!  Do you want to buy a bike or make an appointment to come in to book a rental?"
+            "The route from Fishermen\u0027s Wharf to the Golden Gate Bridge is a tourist favorite!  Do you want to buy a bike or make an appointment to come in to book a rental?",
+            "The polo fields in Golden Gate Park is a really good one!"
           ],
           "condition": ""
         }

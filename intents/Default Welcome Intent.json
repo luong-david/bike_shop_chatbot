@@ -30,7 +30,18 @@
             "I can also provide information about nutrition, bike transport, training monitor, or race information.",
             "I have lots of information to share about nutrition, bike transport, training monitor, or races.",
             "Feel free to ask about our warranty or financing options available.",
-            "Say skip payment to learn about our current promotion."
+            "Say skip payment to learn about one of our current promotion."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Or try asking me anything bike related, hopefully I can answer it!",
+            "If none of these are of interest, try asking me something else."
           ],
           "condition": ""
         },

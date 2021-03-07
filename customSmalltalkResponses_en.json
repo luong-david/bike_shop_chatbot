@@ -228,6 +228,63 @@
     ]
   },
   {
+    "action": "smalltalk.confirmation.cancel",
+    "customAnswers": [
+      "I\u0027m sorry to hear you want to cancel"
+    ]
+  },
+  {
+    "action": "smalltalk.confirmation.no",
+    "customAnswers": [
+      "Aw that\u0027s too bad",
+      "I respect that answer."
+    ]
+  },
+  {
+    "action": "smalltalk.confirmation.yes",
+    "customAnswers": [
+      "Great to hear!"
+    ]
+  },
+  {
+    "action": "smalltalk.dialog.hold_on",
+    "customAnswers": [
+      "Yep whenever you are ready."
+    ]
+  },
+  {
+    "action": "smalltalk.dialog.hug",
+    "customAnswers": [
+      "Virtual hug!"
+    ]
+  },
+  {
+    "action": "smalltalk.dialog.i_do_not_care",
+    "customAnswers": [
+      "Sharing is caring!"
+    ]
+  },
+  {
+    "action": "smalltalk.dialog.sorry",
+    "customAnswers": [
+      "No worries",
+      "That\u0027s okay",
+      "No biggie"
+    ]
+  },
+  {
+    "action": "smalltalk.dialog.what_do_you_mean",
+    "customAnswers": [
+      "Sorry I was not clear.  Try asking me a different way and hopefully I\u0027ll have a better answer."
+    ]
+  },
+  {
+    "action": "smalltalk.dialog.wrong",
+    "customAnswers": [
+      "Try asking me a different way and hopefully I\u0027ll have a better answer."
+    ]
+  },
+  {
     "action": "smalltalk.emotions.ha_ha",
     "customAnswers": [
       "I\u0027m not known as a jokester, but thanks!"
@@ -472,63 +529,6 @@
     "action": "smalltalk.user.will_be_back",
     "customAnswers": [
       "That\u0027s what Arnold said haha"
-    ]
-  },
-  {
-    "action": "smalltalk.confirmation.yes",
-    "customAnswers": [
-      "Great to hear!"
-    ]
-  },
-  {
-    "action": "smalltalk.confirmation.no",
-    "customAnswers": [
-      "Aw that\u0027s too bad",
-      "I respect that answer."
-    ]
-  },
-  {
-    "action": "smalltalk.confirmation.cancel",
-    "customAnswers": [
-      "I\u0027m sorry to hear you want to cancel"
-    ]
-  },
-  {
-    "action": "smalltalk.dialog.hold_on",
-    "customAnswers": [
-      "Yep whenever you are ready."
-    ]
-  },
-  {
-    "action": "smalltalk.dialog.hug",
-    "customAnswers": [
-      "Virtual hug!"
-    ]
-  },
-  {
-    "action": "smalltalk.dialog.i_do_not_care",
-    "customAnswers": [
-      "Sharing is caring!"
-    ]
-  },
-  {
-    "action": "smalltalk.dialog.sorry",
-    "customAnswers": [
-      "No worries",
-      "That\u0027s okay",
-      "No biggie"
-    ]
-  },
-  {
-    "action": "smalltalk.dialog.what_do_you_mean",
-    "customAnswers": [
-      "Sorry I was not clear.  Try asking me a different way and hopefully I\u0027ll have a better answer."
-    ]
-  },
-  {
-    "action": "smalltalk.dialog.wrong",
-    "customAnswers": [
-      "Try asking me a different way and hopefully I\u0027ll have a better answer."
     ]
   }
 ]
