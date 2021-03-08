@@ -45,5 +45,13 @@
       "cashier check",
       "money order"
     ]
+  },
+  {
+    "value": "financing",
+    "synonyms": [
+      "financing",
+      "zero",
+      "term"
+    ]
   }
 ]

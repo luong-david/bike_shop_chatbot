@@ -15,7 +15,7 @@
       ],
       "parameters": [
         {
-          "id": "a21a72ec-688d-4f1d-8d7c-198650024241",
+          "id": "04ab7ee6-0323-4196-9464-1bfc859f8b4c",
           "name": "payment",
           "required": true,
           "dataType": "@payment_type",
@@ -25,7 +25,7 @@
           "prompts": [
             {
               "lang": "en",
-              "value": "Let\u0027s get your payment transaction started.  Examples are credit card, debit card, Venmo, or PayPal  If none of these work, say \"appointment\" so you can come into our store for cash or check payments."
+              "value": "Let\u0027s get your payment transaction started.  Examples are credit card, debit card, Venmo,  PayPal or financing.  If none of these work, say \"appointment\" so you can come into our store for cash or check payments."
             }
           ],
           "promptMessages": [],
@@ -34,7 +34,7 @@
           "outputDialogContexts": []
         },
         {
-          "id": "4fefd275-8bda-4988-b25a-f513b89cfd16",
+          "id": "bc55080d-82d2-4dcc-aa63-ef8b9cbf3291",
           "name": "address",
           "required": true,
           "dataType": "@sys.address",
@@ -53,7 +53,7 @@
           "outputDialogContexts": []
         },
         {
-          "id": "52559e18-87a4-4373-808f-e16ba567af3b",
+          "id": "ac26c6b0-f175-4356-abd3-9e60927466e8",
           "name": "pay_info",
           "required": true,
           "dataType": "@sys.number-integer",

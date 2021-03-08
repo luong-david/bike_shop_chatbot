@@ -19,7 +19,7 @@
       ],
       "parameters": [
         {
-          "id": "883d6028-94e3-4733-8f85-4190472dcc84",
+          "id": "9d764ee7-a308-4542-b097-89d086890490",
           "name": "bike_type",
           "required": true,
           "dataType": "@bike_type",
@@ -38,7 +38,7 @@
           "outputDialogContexts": []
         },
         {
-          "id": "22f64385-2e03-4745-abad-ededcf2c3a4b",
+          "id": "5043196f-062c-4dc1-844d-b9a7952e9804",
           "name": "user_type",
           "required": true,
           "dataType": "@user_type",
@@ -95,6 +95,16 @@
           "lang": "en",
           "speech": [
             "These are our top kids\u0027 bikes for you to consider:\n\nDynacraft Magna Major Damage Dirt Bike.\nRaleigh Bikes Rowdy 20-Inch.\nFirmstrong 20-Inch Urban Girl Beach Cruiser.\nMongoose Legion Sidewalk Freestyle BMX 20-Inch.\nSchwinn Elm Girls 18-Inch Bike.\nRoyalBaby Space Shuttle 18-Inch Bike."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "We offer excellent warranty for all bikes we sell."
           ],
           "condition": ""
         }

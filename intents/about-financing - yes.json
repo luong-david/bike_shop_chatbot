@@ -36,6 +36,16 @@
             "With good FICO score, ZERO rate is best option. This is for 6 months."
           ],
           "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "We also offer low rate financing, for up to 2 years, with down payment of only 5%. Attractive  feature is that  you can skip a payment too."
+          ],
+          "condition": ""
         }
       ],
       "speech": []
