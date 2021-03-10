@@ -52,6 +52,16 @@
         "userDefined": true
       },
       {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "kids",
+        "meta": "@bike_type",
+        "alias": "bike_type",
+        "userDefined": true
+      },
+      {
         "text": " bike",
         "userDefined": false
       }
@@ -72,6 +82,16 @@
         "text": "girl\u0027s",
         "meta": "@user_type",
         "alias": "user_type",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "kids",
+        "meta": "@bike_type",
+        "alias": "bike_type",
         "userDefined": true
       },
       {
@@ -98,6 +118,16 @@
         "userDefined": true
       },
       {
+        "text": "  ",
+        "userDefined": false
+      },
+      {
+        "text": "electric",
+        "meta": "@bike_type",
+        "alias": "bike_type",
+        "userDefined": true
+      },
+      {
         "text": " bike",
         "userDefined": false
       }
@@ -121,6 +151,16 @@
         "userDefined": true
       },
       {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "mountain",
+        "meta": "@bike_type",
+        "alias": "bike_type",
+        "userDefined": true
+      },
+      {
         "text": " bike",
         "userDefined": false
       }
@@ -141,6 +181,16 @@
         "text": "men\u0027s",
         "meta": "@user_type",
         "alias": "user_type",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "road",
+        "meta": "@bike_type",
+        "alias": "bike_type",
         "userDefined": true
       },
       {
@@ -171,6 +221,52 @@
     "data": [
       {
         "text": "Tell me about the types of bikes you carry.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "23901e55-1241-4391-83ba-b73354a1de6c",
+    "data": [
+      {
+        "text": "Show me your ",
+        "userDefined": false
+      },
+      {
+        "text": "mountain",
+        "meta": "@bike_type",
+        "alias": "bike_type",
+        "userDefined": true
+      },
+      {
+        "text": " bikes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "75061517-3fbd-4f03-97ff-4ea0d26ca52d",
+    "data": [
+      {
+        "text": "I want to see your ",
+        "userDefined": false
+      },
+      {
+        "text": "road",
+        "meta": "@bike_type",
+        "alias": "bike_type",
+        "userDefined": true
+      },
+      {
+        "text": " bikes",
         "userDefined": false
       }
     ],

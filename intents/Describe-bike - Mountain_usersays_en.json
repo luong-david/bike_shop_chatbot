@@ -1,0 +1,104 @@
+[
+  {
+    "id": "1ced0566-8bae-4b8d-ab6e-d7a0be8a68bd",
+    "data": [
+      {
+        "text": "Tell me more about ",
+        "userDefined": false
+      },
+      {
+        "text": "mountain",
+        "meta": "@bike_type",
+        "alias": "bike_type",
+        "userDefined": true
+      },
+      {
+        "text": " bikes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ffcd8adf-4335-4e9b-ac17-c90e6f305e21",
+    "data": [
+      {
+        "text": "What is your ",
+        "userDefined": false
+      },
+      {
+        "text": "mountain",
+        "meta": "@bike_type",
+        "alias": "bike_type",
+        "userDefined": true
+      },
+      {
+        "text": " bike selection?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e4f21d11-5f97-4147-aa23-649e2982b752",
+    "data": [
+      {
+        "text": "What is a ",
+        "userDefined": false
+      },
+      {
+        "text": "mountain",
+        "meta": "@bike_type",
+        "alias": "bike_type",
+        "userDefined": true
+      },
+      {
+        "text": " bike?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "78b0483a-833a-47e4-9249-dd735c752c7e",
+    "data": [
+      {
+        "text": "Tell me more about your ",
+        "userDefined": false
+      },
+      {
+        "text": "mountain",
+        "meta": "@bike_type",
+        "alias": "bike_type",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "bikes",
+        "meta": "@bike_type",
+        "alias": "bike_type",
+        "userDefined": true
+      },
+      {
+        "text": "!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

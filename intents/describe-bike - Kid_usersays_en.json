@@ -1,0 +1,60 @@
+[
+  {
+    "id": "3c3db550-176d-4944-a212-468e68ebb32b",
+    "data": [
+      {
+        "text": "I want to learn more about ",
+        "userDefined": false
+      },
+      {
+        "text": "kid",
+        "meta": "@bike_type",
+        "alias": "bike_type",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "bikes",
+        "meta": "@bike_type",
+        "alias": "bike_type",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dc810677-554d-48be-b69b-304b7cc7a369",
+    "data": [
+      {
+        "text": "Tell me about your ",
+        "userDefined": false
+      },
+      {
+        "text": "kid",
+        "meta": "@bike_type",
+        "alias": "bike_type",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "bikes",
+        "meta": "@bike_type",
+        "alias": "bike_type",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,65 @@
+{
+  "id": "a3dff088-5fd8-47ce-82c5-290ee481b7db",
+  "parentId": "e92412d3-9a9a-4156-acbd-723b73a245b7",
+  "rootParentId": "e92412d3-9a9a-4156-acbd-723b73a245b7",
+  "name": "describe-bike - Kid",
+  "auto": true,
+  "contexts": [
+    "DescribeBike-followup",
+    "describe-bike-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "describe-bike.describe-bike-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "771f0364-c90d-4ef9-b06d-77ba0e721075",
+          "name": "bike_type",
+          "required": false,
+          "dataType": "@bike_type",
+          "value": "$bike_type",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Awesome, here is some more information about our kids\u0027 bikes!"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "We carry Marvel Avengers 12-Inch Boys Bike for Kids by Huffy"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

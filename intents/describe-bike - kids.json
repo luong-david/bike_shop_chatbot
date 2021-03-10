@@ -1,0 +1,60 @@
+{
+  "id": "55ade4b1-5ce9-42a9-b155-c4ff58ab941d",
+  "name": "describe-bike - kids",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "describe-bike.describe-bike-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "90997fb2-7ec3-494e-990e-1c38d9029d99",
+          "name": "bike_type",
+          "required": false,
+          "dataType": "@bike_type",
+          "value": "$bike_type",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Great, let\u0027s get you some more info on $bike_type bikes!"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "These are our top $bike_type bikes for you to consider:\n\nDynacraft Magna Major Damage Dirt Bike.\nRaleigh Bikes Rowdy 20-Inch.\nFirmstrong 20-Inch Urban Girl Beach Cruiser.\nMongoose Legion Sidewalk Freestyle BMX 20-Inch.\nSchwinn Elm Girls 18-Inch Bike.\nRoyalBaby Space Shuttle 18-Inch Bike."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

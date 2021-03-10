@@ -10,7 +10,7 @@
       "affectedContexts": [],
       "parameters": [
         {
-          "id": "c42792b6-f3dc-429a-9228-0b00dacc6fde",
+          "id": "e2ef30a6-4490-46df-8195-1cb8c51b95ee",
           "name": "money",
           "required": true,
           "dataType": "@sys.unit-currency",
@@ -37,7 +37,7 @@
           "outputDialogContexts": []
         },
         {
-          "id": "6ef614ef-2c41-4778-bc1a-24dbdaa1549b",
+          "id": "9d140d1d-38c2-4f01-ac4c-109f045f834b",
           "name": "bike_type",
           "required": true,
           "dataType": "@bike_type",

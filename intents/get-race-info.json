@@ -10,7 +10,7 @@
       "affectedContexts": [],
       "parameters": [
         {
-          "id": "8f29cf48-26ce-48ed-8464-1ec5665c1e4e",
+          "id": "ed5d1da2-49f4-4675-8eca-92f60bc491ac",
           "name": "raceevent",
           "required": true,
           "dataType": "@race_type",
@@ -29,7 +29,7 @@
           "outputDialogContexts": []
         },
         {
-          "id": "db011067-1a46-46c0-8868-a0d59a074dce",
+          "id": "d92da983-6c1a-4138-9915-9cb018b794b6",
           "name": "date",
           "required": true,
           "dataType": "@sys.date",
@@ -56,7 +56,7 @@
           "lang": "en",
           "speech": [
             "Great you feel the need for speed!  There is a $raceevent race on $date  We wish you a safe event and happy training until then!  We look forward to hearing about your experience.",
-            "$date is the big day for $raceevent, so mark your calendar!"
+            "$date is the big day for the $raceevent race, so mark your calendar!"
           ],
           "condition": ""
         }

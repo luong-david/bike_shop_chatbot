@@ -10,7 +10,7 @@
       "affectedContexts": [],
       "parameters": [
         {
-          "id": "5f7ae093-9b1e-4752-b0fa-d15858f8c92c",
+          "id": "6d33479f-085e-4476-a44e-d46fe70e054b",
           "name": "consume",
           "required": true,
           "dataType": "@sys.any",
@@ -27,6 +27,25 @@
           "noMatchPromptMessages": [],
           "noInputPromptMessages": [],
           "outputDialogContexts": []
+        },
+        {
+          "id": "2b0a830b-cab9-4525-8b99-9a9ad98fe275",
+          "name": "food",
+          "required": true,
+          "dataType": "@food_type",
+          "value": "$food",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Tell me a kind of you like and I will let you know if you should eat or drink it."
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
         }
       ],
       "messages": [
@@ -36,7 +55,7 @@
           "textToSpeech": "",
           "lang": "en",
           "speech": [
-            "We carry a wide selection foods that you can $consume on your rides!  Say make an appointment and we can offer you some samples then."
+            "We carry a wide selection foods that you can $consume on your rides!  The food you specified is probably best to $food !  Say make an appointment and we can offer you some samples then."
           ],
           "condition": ""
         }

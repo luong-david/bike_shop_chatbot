@@ -10,7 +10,7 @@
       "affectedContexts": [],
       "parameters": [
         {
-          "id": "f507bfc0-8347-425a-93be-0d49b059d101",
+          "id": "65bcd4a3-fe2b-4698-815d-8b8add69fb0d",
           "name": "time",
           "required": true,
           "dataType": "@sys.time",
@@ -37,7 +37,7 @@
           "outputDialogContexts": []
         },
         {
-          "id": "a2bf34ad-df6b-4f62-b884-b5304f1a465a",
+          "id": "943bc7bc-685f-4467-8725-a03f9870d27c",
           "name": "date",
           "required": true,
           "dataType": "@sys.date",
@@ -71,7 +71,7 @@
           "textToSpeech": "",
           "lang": "en",
           "speech": [
-            "Got it. I have your appointment scheduled on $date at $time. See you soon. Good-bye."
+            "Got it. I have your appointment scheduled on $date at $time. See you then.  If you would like to inquire about something else, please ask or say hello again!"
           ],
           "condition": ""
         }

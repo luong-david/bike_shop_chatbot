@@ -1,0 +1,48 @@
+[
+  {
+    "id": "266dd6dc-d032-470b-9a21-900364e3ebc2",
+    "data": [
+      {
+        "text": "What else can you tell me about ",
+        "userDefined": false
+      },
+      {
+        "text": "kids",
+        "meta": "@bike_type",
+        "alias": "bike_type",
+        "userDefined": true
+      },
+      {
+        "text": "\u0027 bikes?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fe832bd9-e6f2-4a45-8d15-ca090aec5e44",
+    "data": [
+      {
+        "text": "Tell me more about ",
+        "userDefined": false
+      },
+      {
+        "text": "kids",
+        "meta": "@bike_type",
+        "alias": "bike_type",
+        "userDefined": true
+      },
+      {
+        "text": " bikes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

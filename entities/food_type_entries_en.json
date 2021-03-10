@@ -12,7 +12,12 @@
       "energy bar",
       "blocks",
       "chews",
-      "gels"
+      "gels",
+      "gobble",
+      "chew",
+      "chomp",
+      "gnaw",
+      "bite"
     ]
   },
   {
@@ -28,7 +33,8 @@
       "Nuun",
       "GU",
       "hydration drink",
-      "electrolyte mix"
+      "electrolyte mix",
+      "down"
     ]
   }
 ]

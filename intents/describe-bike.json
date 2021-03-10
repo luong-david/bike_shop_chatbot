@@ -19,7 +19,7 @@
       ],
       "parameters": [
         {
-          "id": "9d764ee7-a308-4542-b097-89d086890490",
+          "id": "674a7847-3535-4bcb-ae6b-176a750498c7",
           "name": "bike_type",
           "required": true,
           "dataType": "@bike_type",
@@ -38,7 +38,7 @@
           "outputDialogContexts": []
         },
         {
-          "id": "5043196f-062c-4dc1-844d-b9a7952e9804",
+          "id": "eda78ff4-f4a1-412e-a65e-5aa0ce11877d",
           "name": "user_type",
           "required": true,
           "dataType": "@user_type",
@@ -74,27 +74,7 @@
           "textToSpeech": "",
           "lang": "en",
           "speech": [
-            "These are our top mountain bikes for you to consider:\n\nMongoose Dolomite Fat-Tire 26.\nRaleigh Rowdy.\nSchwinn S29 Mountain Bike.\nMerax Finiss.\nMongoose Malus Fat Bike.\nSpecialized Rockhopper 29.\nCleary Bikes Owl."
-          ],
-          "condition": ""
-        },
-        {
-          "type": "0",
-          "title": "",
-          "textToSpeech": "",
-          "lang": "en",
-          "speech": [
-            "These are our top road bikes for you to consider:\n\nTrek Emonda SLR 9 Disc.\nCanyon Ultimate CF Evo 10.0 SL.\nSpecialized S-Works Roubaix.\nTrek Domane SLR 9 eTap.\nBMC Roadmachine 01 One.\nGiant Defy Advanced Pro 0.\nCannondale CAAD13 Force Etap.\nSpecialized Allez Sprint Disc."
-          ],
-          "condition": ""
-        },
-        {
-          "type": "0",
-          "title": "",
-          "textToSpeech": "",
-          "lang": "en",
-          "speech": [
-            "These are our top kids\u0027 bikes for you to consider:\n\nDynacraft Magna Major Damage Dirt Bike.\nRaleigh Bikes Rowdy 20-Inch.\nFirmstrong 20-Inch Urban Girl Beach Cruiser.\nMongoose Legion Sidewalk Freestyle BMX 20-Inch.\nSchwinn Elm Girls 18-Inch Bike.\nRoyalBaby Space Shuttle 18-Inch Bike."
+            "Please ask for more information and I will try provide an answer for you."
           ],
           "condition": ""
         },

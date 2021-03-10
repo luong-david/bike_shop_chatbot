@@ -1,0 +1,39 @@
+{
+  "id": "3ec9f38b-d311-4a41-ac2e-333c01c04ae2",
+  "parentId": "e92412d3-9a9a-4156-acbd-723b73a245b7",
+  "rootParentId": "e92412d3-9a9a-4156-acbd-723b73a245b7",
+  "name": "describe-bike - fallback",
+  "contexts": [
+    "DescribeBike-followup",
+    "describe-bike-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "describe-bike.describe-bike-fallback",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Sorry I didn\u0027t understand what you wanted to know more about.  Let\u0027s start over and phrase the question different."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -3,14 +3,17 @@
     "value": "criterium",
     "synonyms": [
       "criterium",
-      "crit"
+      "crit",
+      "closed circuit",
+      "circuit"
     ]
   },
   {
     "value": "track",
     "synonyms": [
       "track",
-      "velodrome"
+      "velodrome",
+      "indoors"
     ]
   },
   {
@@ -27,6 +30,15 @@
       "mountain",
       "cross",
       "dirt"
+    ]
+  },
+  {
+    "value": "road",
+    "synonyms": [
+      "road",
+      "pavement",
+      "street",
+      "asphalt"
     ]
   }
 ]
